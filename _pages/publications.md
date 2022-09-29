@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "To appear"
-author_profile: true
----
-
----
-layout: archive
-title: "Publications"
+title: "In press"
 permalink: /publications/
 author_profile: true
 ---
+
+Publications 
+------
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
