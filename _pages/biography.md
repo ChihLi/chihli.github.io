@@ -17,9 +17,9 @@ Work experience
 
 Education
 ======
-* Ph.D in [Industrial Engineering, Georgia Institute of Technology](https://www.isye.gatech.edu/), U.S.A. (2014 - 2018)
-* M.S. in [Statistics, National Tsing Hua University](https://stat.site.nthu.edu.tw/p/412-1327-317.php?Lang=en), Taiwan (2008 - 2010)
-* B.S. in [Applied Mathematics, National Tsing Hua University](http://www.mathnet.ru/eng/org4646), Taiwan (2004 - 2008)
+* Ph.D in Industrial Engineering, Georgia Institute of Technology, U.S.A. (2014 - 2018)
+* M.S. in Statistics, National Tsing Hua University, Taiwan (2008 - 2010)
+* B.S. in Applied Mathematics, National Tsing Hua University, Taiwan (2004 - 2008)
 
   
 Editorial Services
