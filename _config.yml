@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chih-Li Sung"
 title_separator          : "-"
 name                     : &name "Chih-Li Sung"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chih-Li Sung"
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor, Department of Statistics and Probability"
   location         : "East Lansing, MI"
-  employer         :
+  employer         : "Michigan State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=okpjixAAAAAJ&hl=en"
-  email            :
+  email            : "sungchih@msu.edu"
   researchgate     : "https://www.researchgate.net/profile/Chih-Li-Sung"
   uri              :
   bitbucket        :
