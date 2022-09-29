@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Publications 
-------
+---
 
 
 {% if author.googlescholar %}
