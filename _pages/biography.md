@@ -10,16 +10,16 @@ redirect_from:
 
 Work experience
 ======
-* Assistant Professor, Department of Statistics and Probability, Michigan State University (2018 -  present)
-* Visiting Assistant Professor, Department of Statistics, National Cheng Kung University (May - July, 2022)
-* Research Assistant, Academia Sinica, Taiwan (2013 - 2014)
+* Assistant Professor, Department of Statistics and Probability, [Michigan State University](https://stt.natsci.msu.edu/) (2018 -  present)
+* Visiting Assistant Professor, Department of Statistics, [National Cheng Kung University](https://www.ncku.edu.tw/) (May - July, 2022)
+* Research Assistant, [Academia Sinica](https://www.stat.sinica.edu.tw/eng/), Taiwan (2013 - 2014)
 * Statistical Engineer, Walsin Lihwa Corp., Taiwan (2010 - 2013)
 
 Education
 ======
-* Ph.D in Industrial Engineering, Georgia Institute of Technology, U.S.A. (2014 - 2018)
-* M.S. in Statistics, National Tsing Hua University, Taiwan (2008 - 2010)
-* B.S. in Applied Mathematics, National Tsing Hua University, Taiwan (2004 - 2008)
+* Ph.D in Industrial Engineering, [Georgia Institute of Technology](https://www.isye.gatech.edu/), U.S.A. (2014 - 2018)
+* M.S. in Statistics, [National Tsing Hua University](https://stat.site.nthu.edu.tw/p/412-1327-317.php?Lang=en), Taiwan (2008 - 2010)
+* B.S. in Applied Mathematics, [National Tsing Hua University](http://www.mathnet.ru/eng/org4646), Taiwan (2004 - 2008)
 
   
 Editorial Services
