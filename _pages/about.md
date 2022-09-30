@@ -13,4 +13,6 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
+* The article "[Estimating functional parameters for understanding the impact of weather and government interventions on COVID-19 outbreak](https://urldefense.com/v3/__http://dx.doi.org/10.1214/22-AOAS1601__;!!HXCxUKc!2Ay_hnUuv6ahb2x2a9xp8WQ4osvkmWeI6DfWZqbS-hEvSPpEpmfLvVppy-sQxF9eYj78cPRaRR3R_A$)" 
+was published in the Annals of Applied Statistics 2022, Vol. 16, No. 4, 2505-2522.
 
