@@ -10,8 +10,7 @@ redirect_from:
 
 Work experience
 ======
-* Assistant Professor, [Department of Statistics and Probability, Michigan State University](https://stt.natsci.msu.edu/) (2018 -  present)
-* Visiting Assistant Professor, [Department of Statistics, National Cheng Kung University](https://www.stat.ncku.edu.tw/) (May - July, 2022)
+* Assistant Professor, Department of Statistics and Probability, [Michigan State University](https://stt.natsci.msu.edu/) (2018 -  present)
 * Research Assistant, [Academia Sinica](https://www.stat.sinica.edu.tw/eng/), Taiwan (2013 - 2014)
 * Statistical Engineer, Walsin Lihwa Corp., Taiwan (2010 - 2013)
 
