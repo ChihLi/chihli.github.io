@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Submitted
+title: Submitted Manuscripts
 permalink: /publications/
 author_profile: true
 ---
