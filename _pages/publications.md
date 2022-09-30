@@ -1,11 +1,16 @@
 ---
 layout: archive
+title: 
 permalink: /publications/
 author_profile: true
 ---
 
 Submitted
 ======
+
+{% for post in site.submitted reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 In Press
 ======
