@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Submitted Manuscripts
+title: Under review
 permalink: /publications/
 author_profile: true
 ---
