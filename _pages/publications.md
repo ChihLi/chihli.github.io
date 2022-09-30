@@ -8,6 +8,8 @@ author_profile: true
 Submitted
 ======
 
+{% include base_path %}
+
 {% for post in site.submitted reversed %}
   {% include archive-single.html %}
 {% endfor %}
