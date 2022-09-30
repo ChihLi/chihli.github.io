@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: 
+title: Submitted
 permalink: /publications/
 author_profile: true
 ---
-
-Submitted
-======
 
 {% include base_path %}
 
