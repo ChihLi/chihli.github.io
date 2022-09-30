@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 {% for post in site.submitted reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+{% include base_path %}
 
 Publications
 ======
