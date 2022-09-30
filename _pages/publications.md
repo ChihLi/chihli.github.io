@@ -12,8 +12,6 @@ Submitted
   {% include archive-single.html %}
 {% endfor %}
 
-In Press
-======
 
 Publications
 ======
