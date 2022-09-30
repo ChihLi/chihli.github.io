@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Under review
+title: Submitted Papers
 permalink: /publications/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 
-Publications
+Refereed Papers
 ======
 
 {% if author.googlescholar %}
