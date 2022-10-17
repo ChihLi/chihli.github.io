@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "Michigan State University, Department of Statistics and Probability"
 link: "https://sites.google.com/view/2022-fall-stt481/home"
-date: "2022 Fall, 2022 Spring, 2021 Fall, 2021 Spring, 2020 Fall, 2020 Spring, 2019 Fall, 2019 Spring, 2018 Fall"
+semester: "2022 Fall, 2022 Spring, 2021 Fall, 2021 Spring, 2020 Fall, 2020 Spring, 2019 Fall, 2019 Spring, 2018 Fall"
 textbook: "An Introduction to Statistical Learning with Applications in R"
 ---
 

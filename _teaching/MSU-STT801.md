@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 link: "https://sites.google.com/view/2022-spring-stt801/home"
 venue: "Michigan State University, Department of Statistics and Probability"
-date: "2022 Spring, 2021 Spring"
+semester: "2022 Spring, 2021 Spring"
 textbook: "Experiments: Planning, Analysis, and Optimization, 2nd Edition"
 ---
 
