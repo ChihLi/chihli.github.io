@@ -40,9 +40,9 @@
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-      <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
-      <p> {{ post.semester }} </p>
-      <p> <b>Textbook:</b> {{ post.textbook }} </p>
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>
+      <br> {{ post.semester }}
+      <br> <b>Textbook:</b> {{ post.textbook }} </p>
     {% elsif post.collection == 'publications' or post.collection == 'submitted' %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
