@@ -23,9 +23,9 @@ PhD students
 
 ### [MSU IMPACTS](https://impacts.natsci.msu.edu/) Trainees
 
-* [Duncan Boren](https://mps.natsci.msu.edu/research-people/students/duncan-boren/), Department of Biochemistry & Molecular Biology (2022 -  present) 
+* [Duncan Boren](https://mps.natsci.msu.edu/research-people/students/duncan-boren/) (2022 -  present) 
     Primary mentor: [Josh Vermaas](https://prl.natsci.msu.edu/people/faculty/josh-vermaas/)
-* [Joshua Kaste](https://bmb.natsci.msu.edu/graduate-students/bmb-graduate-students/joshua-kaste/), Department of Biochemistry & Molecular Biology (2020 -  2021) 
+* [Joshua Kaste](https://bmb.natsci.msu.edu/graduate-students/bmb-graduate-students/joshua-kaste/) (2020 -  2021) 
     Primary mentor: [Yair Shachar-Hill](https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/)
 
 
