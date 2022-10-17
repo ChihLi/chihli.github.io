@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 venue: "Michigan State University, Department of Statistics and Probability"
 date: 2022 Spring, 2021 Spring
-textbook: <a href="https://www.amazon.com/Experiments-Planning-Analysis-Optimization-Jeff/dp/0471699462/ref=asc_df_0471699462/?tag=hyprod-20&linkCode=df0&hvadid=312064598816&hvpos=&hvnetw=g&hvrand=8957626604179626131&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1019499&hvtargid=pla-487630698893&psc=1">Experiments: Planning, Analysis, and Optimization</a>
+textbook: <a href="https://www.wiley.com/en-us/Experiments:+Planning,+Analysis,+and+Optimization,+2nd+Edition-p-9780471699460">Experiments: Planning, Analysis, and Optimization</a>
 ---
 
 Design of experiments (DOE) is the laying out of a detailed experimental plan in advance of doing the experiment. In this course, students will learn various experimental designs and their applications. Students will also learn to analyze data and determine the relationship between potential factors and the output of that process from planned experiments, using the statistical software ([R](https://www.r-project.org/)).
