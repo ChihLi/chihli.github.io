@@ -19,14 +19,14 @@ PhD students
 ### National Cheng Kung University
 
 * Wei-Ann Lin (2019 -  present) 
-    (primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home))
+    primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home)
 
 ### [MSU IMPACTS](https://impacts.natsci.msu.edu/) Trainees
 
 * [Duncan Boren](https://mps.natsci.msu.edu/research-people/students/duncan-boren/), Department of Biochemistry & Molecular Biology (2022 -  present) 
-    (Primary mentor: [Josh Vermaas](https://prl.natsci.msu.edu/people/faculty/josh-vermaas/))
+    Primary mentor: [Josh Vermaas](https://prl.natsci.msu.edu/people/faculty/josh-vermaas/)
 * [Joshua Kaste](https://bmb.natsci.msu.edu/graduate-students/bmb-graduate-students/joshua-kaste/), Department of Biochemistry & Molecular Biology (2020 -  2021) 
-    (Primary mentor: [Yair Shachar-Hill](https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/))
+    Primary mentor: [Yair Shachar-Hill](https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/)
 
 
   
