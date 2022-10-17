@@ -12,7 +12,7 @@ Statistical capstone experiences are essential for statisticians to perform an i
 This course covers the following topics:
 * problem formulation
 * advanced statistical modeling, preliminary data analysis, and machine learning
-* Statistical software (R)
+* Statistical software ([R](https://www.r-project.org/))
 * thorough and elaborate statistical analyses of data
 * final presentation and data visualization
 
