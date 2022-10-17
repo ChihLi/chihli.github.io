@@ -13,12 +13,12 @@ PhD students
 
 ### Michigan State University
 
-* [Chun-Yi Chang](https://stt.natsci.msu.edu/directory/tas-doctoral/chun-yi-chang/) (2022 -  present)
-* [Junoh Heo](https://stt.natsci.msu.edu/directory/tas-doctoral/junoh-heo/) (2021 -  present)
+3\. [Chun-Yi Chang](https://stt.natsci.msu.edu/directory/tas-doctoral/chun-yi-chang/) (2022 -  present)
+2\. [Junoh Heo](https://stt.natsci.msu.edu/directory/tas-doctoral/junoh-heo/) (2021 -  present)
 
 ### National Cheng Kung University
 
-* Wei-Ann Lin (2019 -  present) 
+1\. Wei-Ann Lin (2019 -  present) 
     * primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home)
 
 ### [MSU IMPACTS](https://impacts.natsci.msu.edu/) Trainees
