@@ -40,7 +40,7 @@ Master Students
     Current position: Ph.D. student at MSU
 * Kun Xia (2021-2022)
     Current position: Ph.D. student at MSU
-* Ashton Pallottini (2019-2020)
+* [Ashton Pallottini](https://www.ashtonpallottini.com/) (2019-2020)
     Current position: Ph.D. student at U. of Chicago
 * Jinwon Park (2019-2020)
 
