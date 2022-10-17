@@ -190,6 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: submitted
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # students
+  - scope:
+      path: ""
+      type: students
     values:
       layout: single
       author_profile: true
