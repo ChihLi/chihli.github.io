@@ -47,7 +47,7 @@ Master Students
 ### Florida Tech
 
 * Wei Chen (2020-2021)
-    (Primary advisor: Prof. [Xingjian Wang](https://www.depe.tsinghua.edu.cn/depeen/info/1297/1261.htm))
+    Primary advisor: Prof. [Xingjian Wang](https://www.depe.tsinghua.edu.cn/depeen/info/1297/1261.htm)
 
 Undergraduate Students
 ======
