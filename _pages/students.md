@@ -19,14 +19,14 @@ PhD students
 ### National Cheng Kung University
 
 * Wei-Ann Lin (2019 -  present) 
-    primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home)
+    (primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home))
 
 ### [MSU IMPACTS](https://impacts.natsci.msu.edu/) Trainees
 
 * [Duncan Boren](https://mps.natsci.msu.edu/research-people/students/duncan-boren/), Department of Biochemistry & Molecular Biology (2022 -  present) 
-    Primary mentor: [Josh Vermaas](https://prl.natsci.msu.edu/people/faculty/josh-vermaas/)
+    (Primary mentor: [Josh Vermaas](https://prl.natsci.msu.edu/people/faculty/josh-vermaas/))
 * [Joshua Kaste](https://bmb.natsci.msu.edu/graduate-students/bmb-graduate-students/joshua-kaste/), Department of Biochemistry & Molecular Biology (2020 -  2021) 
-    Primary mentor: [Yair Shachar-Hill](https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/)
+    (Primary mentor: [Yair Shachar-Hill](https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/))
 
 
   
@@ -37,17 +37,17 @@ Master Students
 
 * Haojun Yang  (2021-2022)
 * Chun-Yi Chang (2021-2022)
-    Current position: Ph.D. student at MSU
+    (Current position: Ph.D. student at MSU)
 * Kun Xia (2021-2022)
-    Current position: Ph.D. student at MSU
+    (Current position: Ph.D. student at MSU)
 * Ashton Pallottini (2019-2020)
-    Current position: Ph.D. student at U. of Chicago
+    (Current position: Ph.D. student at U. of Chicago)
 * Jinwon Park (2019-2020)
 
 ### Florida Tech
 
 * Wei Chen (2020-2021)
-    Primary advisor: Prof. [Xingjian Wang](https://www.depe.tsinghua.edu.cn/depeen/info/1297/1261.htm)
+    (Primary advisor: Prof. [Xingjian Wang](https://www.depe.tsinghua.edu.cn/depeen/info/1297/1261.htm))
 
 Undergraduate Students
 ======
