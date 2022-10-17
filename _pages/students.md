@@ -28,7 +28,7 @@ PhD students
 * [Joshua Kaste](https://bmb.natsci.msu.edu/graduate-students/bmb-graduate-students/joshua-kaste/) (2020 -  2021) 
     Primary mentor: [Yair Shachar-Hill](https://plantbiology.natsci.msu.edu/directory/yair-shachar-hill/)
 
-
+<br>
   
 Master Students
 ======
@@ -48,6 +48,9 @@ Master Students
 
 * Wei Chen (2020-2021)
     Primary advisor: Prof. [Xingjian Wang](https://www.depe.tsinghua.edu.cn/depeen/info/1297/1261.htm)
+
+
+<br>
 
 Undergraduate Students
 ======
