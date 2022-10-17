@@ -21,7 +21,7 @@ PhD students
 * Wei-Ann Lin (2019 -  present) 
     primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home)
 
-### [MSU IMPACTS](https://impacts.natsci.msu.edu/) Trainees
+### MSU [IMPACTS](https://impacts.natsci.msu.edu/) Trainees
 
 * [Duncan Boren](https://mps.natsci.msu.edu/research-people/students/duncan-boren/) (2022 -  present) 
     Primary mentor: [Josh Vermaas](https://prl.natsci.msu.edu/people/faculty/josh-vermaas/)
