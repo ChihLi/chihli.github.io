@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Submitted Papers
+title: Preprints
 permalink: /publications/
 author_profile: true
 ---
