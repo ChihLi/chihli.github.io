@@ -60,7 +60,9 @@
         {{ post.citation }}
       {% endif %}
       {% if post.papertitle %}
-        {{ post.papertitle }}
+        <h2 class="archive__item-title" itemprop="headline">
+            {{ post.papertitle }}
+        </h2>
         <br>
       {% endif %}
       {% if post.author %}
