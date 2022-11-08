@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 
-Refereed Papers
+Publications
 ======
 
 {% if author.googlescholar %}
