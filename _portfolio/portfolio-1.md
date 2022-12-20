@@ -1,6 +1,6 @@
 ---
 title: "Design and analysis of multi-fidelity computer experiments"
-excerpt: "<br/><img src='/images/multifidelity.png' width="800" height="300">"
+excerpt: "<br/><img src='/images/multifidelity.png' width='800' height='300'>"
 collection: portfolio
 ---
 
