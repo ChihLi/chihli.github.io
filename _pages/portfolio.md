@@ -19,6 +19,8 @@ Computer model simulations have become increasingly important for studying compl
 * computer models may be imperfect, so in order to make meaningful predictions, it is essential to calibrate a computer model by aligning the model's response with physical experimental data such that it can accurately reflect the real-world system;
 * optimizing computer model outputs that are expensive to simulate can be almost impossible.
 
+My research focus is to tackle these challenges by providing modern, efficient statistical approaches.
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
