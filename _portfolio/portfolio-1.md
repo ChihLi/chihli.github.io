@@ -7,4 +7,4 @@ I'm interested in developing new statistcal emulators and experimental designs f
 * maximize predictive power of the multi-fidelity emulator via a careful design of experiments, and 
 * ensure this model achieves a desired error tolerance with confidence. 
 
-A preliminary result can be found in .<br/><img src='/images/multifidelity.png' width='700' height='300'>
+A preliminary result can be found in [Sung, Ji, Tang, and Mak (2023+)](https://arxiv.org/abs/2211.00268).<br/><img src='/images/multifidelity.png' width='700' height='300'>

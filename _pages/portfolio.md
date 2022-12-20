@@ -22,6 +22,6 @@ Computer model simulations have become increasingly important for studying compl
 My research focus is to tackle these challenges by providing modern, efficient statistical approaches.
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <!-- {% include archive-single.html %} -->
 {% endfor %}
 
