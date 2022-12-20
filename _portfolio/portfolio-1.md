@@ -1,7 +1,7 @@
 ---
-title: "Design and Analysis of Multi-Fidelity Computer Experiments"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Design and analysis of multi-fidelity computer experiments"
+excerpt: "<br/><img src='/images/multifidelity.png' width="800" height="300">"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I'm interested in developing new models and experimental designs for multi-fidelity computer experiments. The hope is to (i) maximize predictive power of the multi-fidelity emulator via a careful design of experiments, and (ii) ensure this model achieves a desired error tolerance with confidence. A preliminary result can be found in 
