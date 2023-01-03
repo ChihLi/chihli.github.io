@@ -11,7 +11,7 @@ redirect_from:
 R Packages
 ======
 
-* [GPcluster](https://github.com/ChihLi/GPcluster): Estimation and prediction for a clustered Gaussian process model
+* [GPcluster](https://github.com/ChihLi/GPcluster): Perform the clustered Gaussian process model proposed by Sung et al. (2023) Statistica Sinica
 * [HetCalibrate](https://github.com/ChihLi/HetCalibrate): Calibration parameter estimation for inexact computer models with heteroscedastic errors
 * [calibrateBinary](https://cran.r-project.org/web/packages/calibrateBinary/index.html): Calibration for computer experiments with binary responses
 * [binaryGP](https://cran.r-project.org/web/packages/binaryGP/index.html): Fit and predict a Gaussian process model with (time-series) binary response
