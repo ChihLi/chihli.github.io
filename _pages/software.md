@@ -22,7 +22,7 @@ R Packages
 
 Reproducibility
 ======
-* [Functional-input Gaussian processes with applications to inverse scattering problems](https://github.com/ChihLi/functional-input-GP) (2022+)
+* [Functional-input Gaussian processes with applications to inverse scattering problems](https://github.com/ChihLi/functional-input-GP) (2023+) *Statistica Sinica*
 * [Calibration of inexact computer models with heteroscedastic errors](https://github.com/ChihLi/HetCalibrate-Reproducibility) (2022). *SIAM/ASA Journal on Uncertainty Quantification*, 10(4), 1733-1752.
 * [Estimating functional parameters for understanding the impact of weather and government interventions on COVID-19 outbreak](https://github.com/ChihLi/Understanding-Impact-of-weather-and-intervention-on-COVID-19-AoAs) (2022). *Annals of Applied Statistics*, 16(4), 2505-2522.
 * [An efficient surrogate model for emulation and physics extraction of large eddy simulations](https://github.com/jasa-acs/An-efficient-surrogate-model-for-emulation-and-physics-extraction-of-large-eddy-simulations) (2018). *Journal of the American Statistical Association*, 113(524):1443-1456.
