@@ -13,7 +13,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
-* I will be presenting (virtually) the recent work "[Functional-input Gaussian processes with applications to inverse scattering problems](https://arxiv.org/abs/2201.01682)" in the School of Mathematics and Statistics at [University of St Andrews, Scotland](https://www.st-andrews.ac.uk/mathematics-statistics/) on January 18, 2023. 
+* I will be presenting (virtually) "When epidemic models meet statistics: understanding COVID-19 outbreak" in the School of Mathematics and Statistics at [University of St Andrews, Scotland](https://www.st-andrews.ac.uk/mathematics-statistics/) on January 18, 2023. 
 * See the [story](https://prl.natsci.msu.edu/news-events/news/from-colleagues-to-collaborators-a-cross-department-conversation-links-statistics-to-plant-science/) behind our JUQ paper.
 * The paper "Calibration of inexact computer models with heteroscedastic errors" 
 has been published in the [SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/doi/10.1137/21M1417946) 2022, Vol. 10, No. 4, 1733-1752.
