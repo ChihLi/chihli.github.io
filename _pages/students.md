@@ -12,7 +12,7 @@ PhD students
 ======
 
 ### Michigan State University
-
+* [Romain Boutelet](https://stt.natsci.msu.edu/directory/tas-doctoral/romain-boutelet/) (2023 -  present)
 * [Chun-Yi Chang](https://stt.natsci.msu.edu/directory/tas-doctoral/chun-yi-chang/) (2022 -  present)
 * [Junoh Heo](https://stt.natsci.msu.edu/directory/tas-doctoral/junoh-heo/) (2021 -  present)
 
