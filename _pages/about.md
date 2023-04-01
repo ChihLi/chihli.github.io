@@ -13,6 +13,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
+* I will be presenting "Stacking designs: designing multi-fidelity computer experiments with confidence" at [Spring Research Conference 2023](https://sites.google.com/view/src2023/home) on May 25, 2023. 
 * The paper "[Functional-input Gaussian processes with applications to inverse scattering problems](https://arxiv.org/abs/2201.01682)" has been accepted by [Statistica Sinica](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0180_na.pdf). 
 * I will be presenting (virtually) "When epidemic models meet statistics: understanding COVID-19 outbreak" in the School of Mathematics and Statistics at [University of St Andrews, Scotland](https://www.st-andrews.ac.uk/mathematics-statistics/) on January 18, 2023. 
 * See the story behind our JUQ paper: [From colleagues to collaborators, a cross-department conversation links statistics to plant science](https://prl.natsci.msu.edu/news-events/news/from-colleagues-to-collaborators-a-cross-department-conversation-links-statistics-to-plant-science/).
