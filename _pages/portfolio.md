@@ -23,6 +23,6 @@ My research focus is to tackle these challenges by providing modern, efficient s
 
 Special thanks to [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false) for their support of this research.
 
-<img src='/images/NSF.png' width="200" height="200" style="float:right">
+<img src='/images/NSF.png' width="120" height="120" style="float:left">
 
 
