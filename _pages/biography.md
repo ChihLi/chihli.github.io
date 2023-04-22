@@ -29,7 +29,7 @@ Editorial Services
 
 Honors and Awards
 ======
-* [IMS New Researcher Travel Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false): 2023, The Institute of Mathematical Statistics (IMS)
+* [IMS New Researcher Travel Award](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/): 2023, The Institute of Mathematical Statistics (IMS)
 * [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false): 2021-2024 (PI, $142,009), NSF DMS 2113407
 * Full Membership in Sigma Xi: 2021, The Scientific Research Honor Society
 * [Statistics in Physical Engineering Sciences (SPES) Award](https://www.amstat.org/your-career/awards/statistics-in-physical-engineering-sciences-award): 2019, American Statistical Association (ASA)
