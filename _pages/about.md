@@ -13,6 +13,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
+* It's my pleasure to be the recipient of the [IMS New Researcher Travel Awards for 2023](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/). 
 * I will be presenting "Stacking designs: designing multi-fidelity computer experiments with confidence" at [Spring Research Conference 2023](https://sites.google.com/view/src2023/home) on May 25, 2023. 
 * The paper "A clustered Gaussian process model for computer experiments" has been published in [Statistica Sinica](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html) 2023, Vol. 33, No.2, 893-918.
 * The paper "Data-driven modeling of general fluid density under subcritical and supercritical conditions" has been published in [AIAA Journal](https://arc.aiaa.org/doi/10.2514/1.J062336) 2023, Vol. 61, No.4, 1519-1531.
