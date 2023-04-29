@@ -12,9 +12,9 @@ PhD students
 ======
 
 ### Michigan State University
-* [Romain Boutelet](https://stt.natsci.msu.edu/directory/tas-doctoral/romain-boutelet/) (2023 -  present)
-* [Chun-Yi Chang](https://stt.natsci.msu.edu/directory/tas-doctoral/chun-yi-chang/) (2022 -  present)
-* [Junoh Heo](https://stt.natsci.msu.edu/directory/tas-doctoral/junoh-heo/) (2021 -  present)
+* [Romain Boutelet](https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188) (2023 -  present)
+* [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (2022 -  present)
+* [Junoh Heo](https://directory.natsci.msu.edu/Directory/Profiles/Person/102488?org=2&group=188) (2021 -  present)
 
 ### National Cheng Kung University
 
