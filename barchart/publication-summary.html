@@ -107,14 +107,16 @@
   });
     var ctx3 = document.getElementById('chart3').getContext('2d');
     var chart3 = new Chart(ctx3, {
-        type: 'bar',
+        type: 'line',
         data: {
-          labels: ['2023+', '2022', '2020', '2019', '2018'],
+          labels: ['2018', '2019', '2020', '2021', '2022', '2023+'],
           datasets: [{
-            data: [3, 2, 3, 1, 3],
+            data: [3, 1, 3, 0, 2, 3],
             backgroundColor: 'rgba(192, 75, 192, 0.2)',
             borderColor: 'rgba(192, 75, 192, 1)',
-            borderWidth: 1
+            pointStyle: 'circle',
+            pointRadius: 10,
+            pointHoverRadius: 15
           }]
         },
         options: {
