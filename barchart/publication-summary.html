@@ -2,6 +2,7 @@
   <canvas id="chart1"></canvas>
   <canvas id="chart2"></canvas>
   <canvas id="chart3"></canvas>
+  <canvas id="chart4"></canvas>
 </div>
 
 <style>
@@ -24,7 +25,7 @@
   var chart1 = new Chart(ctx1, {
       type: 'bar',
       data: {
-        labels: ['JASA', 'Stat Sinica', 'AIAA', 'JUQ', 'AoAS'],
+        labels: ['JASA', ['Statistica', 'Sinica'], 'AIAA', 'JUQ', 'AoAS'],
         datasets: [{
           data: [4, 3, 3, 1, 1],
           backgroundColor: ['rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)', 'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)'],
@@ -135,6 +136,48 @@
                   title: {
                     display: true,
                     text: 'Publication Year',
+                    padding: {
+                      top: 10,
+                      bottom: 10
+                    },
+                    font: {
+                                size: 18 // Adjust the font size as needed
+                              }
+                  },
+                  legend: {
+                        display: false
+                      }
+                }
+        }
+    });
+    var ctx4 = document.getElementById('chart4').getContext('2d');
+    var chart4 = new Chart(ctx4, {
+        type: 'bar',
+        data: {
+          labels: [['Uncertainty', 'Quantification'], ['Computer', 'Experiment'], ['Gaussian', 'Process'], 'Kriging', ['Computational', 'Fluid', 'Dynamics']],
+          datasets: [{
+            data: [5, 5, 3, 3, 2],
+            backgroundColor: 'rgba(192, 192, 75, 0.2)',
+            borderColor: 'rgba(192, 192, 75, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          scales: {
+            x: {
+                ticks: {
+                  maxRotation: 90,
+                  minRotation: 90
+                }
+              },
+            y: {
+              beginAtZero: true
+            }
+          },
+          plugins: {
+                  title: {
+                    display: true,
+                    text: 'Keywords',
                     padding: {
                       top: 10,
                       bottom: 10
