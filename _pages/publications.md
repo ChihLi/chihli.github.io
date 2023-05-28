@@ -20,6 +20,8 @@ Publications
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+{% include publication-summary %}
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
