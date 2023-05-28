@@ -20,7 +20,7 @@ Publications
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include publication-summary %}
+<iframe src="/barchart/publication-summary.html" height="700" width="850" style="border:none;"></iframe>
 
 {% include base_path %}
 
