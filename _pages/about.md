@@ -20,9 +20,4 @@ News
 * The paper "Data-driven modeling of general fluid density under subcritical and supercritical conditions" has been published in [AIAA Journal](https://arc.aiaa.org/doi/10.2514/1.J062336) 2023, Vol. 61, No.4, 1519-1531.
 * The paper "[Functional-input Gaussian processes with applications to inverse scattering problems](https://arxiv.org/abs/2201.01682)" has been accepted by [Statistica Sinica](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0180_na.pdf). 
 * I will be presenting (virtually) "When epidemic models meet statistics: understanding COVID-19 outbreak" in the School of Mathematics and Statistics at [University of St Andrews, Scotland](https://www.st-andrews.ac.uk/mathematics-statistics/) on January 18, 2023. 
-* See the story behind our JUQ paper: [From colleagues to collaborators, a cross-department conversation links statistics to plant science](https://prl.natsci.msu.edu/news-events/news/from-colleagues-to-collaborators-a-cross-department-conversation-links-statistics-to-plant-science/).
-* The paper "Calibration of inexact computer models with heteroscedastic errors" 
-has been published in the [SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/doi/10.1137/21M1417946) 2022, Vol. 10, No. 4, 1733-1752.
-* The paper "[Estimating functional parameters for understanding the impact of weather and government interventions on COVID-19 outbreak](https://chihli.github.io/files/2022aoas.pdf)" 
-has been published in the [Annals of Applied Statistics](https://urldefense.com/v3/__http://dx.doi.org/10.1214/22-AOAS1601__;!!HXCxUKc!2Ay_hnUuv6ahb2x2a9xp8WQ4osvkmWeI6DfWZqbS-hEvSPpEpmfLvVppy-sQxF9eYj78cPRaRR3R_A$) 2022, Vol. 16, No. 4, 2505-2522.
 
