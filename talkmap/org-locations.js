@@ -11,7 +11,7 @@ var addressPoints = [
   ],
   [
     "Grand Rapids, MI",
-    42.9632405,
+    42.9632425,
     -85.6678639
   ],
   [
@@ -73,6 +73,11 @@ var addressPoints = [
     "Chicago, IL",
     41.8755616,
     -87.6244212
+  ],
+  [
+    "Ottawa, ON",
+    45.4208777,
+    -75.6901106
   ],
   [
     "Seattle, WA",
