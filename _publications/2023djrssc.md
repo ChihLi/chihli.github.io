@@ -4,4 +4,5 @@ papertitle: Efficient calibration for imperfect epidemic models with application
 author: 13. <b>Sung, C.-L.</b> and Hung, Y. (2023+)
 journal: Journal of the Royal Statistical Society&#58; Series C, accepted.
 link: 'https://arxiv.org/abs/2009.12523'
+github: 'https://github.com/ChihLi/Epidemic-Models-Calibration'
 ---
