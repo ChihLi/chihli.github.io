@@ -22,6 +22,7 @@ R Packages
 
 Reproducibility
 ======
+* [Mesh-clustered Gaussian process emulator for partial differential equation systems](https://github.com/ChihLi/mcGP-Reproducibility) (2023)
 * [Functional-input Gaussian processes with applications to inverse scattering problems](https://github.com/ChihLi/functional-input-GP) (2024) *Statistica Sinica*
 * [Calibration of inexact computer models with heteroscedastic errors](https://github.com/ChihLi/HetCalibrate-Reproducibility) (2022). *SIAM/ASA Journal on Uncertainty Quantification*, 10(4), 1733-1752.
 * [Estimating functional parameters for understanding the impact of weather and government interventions on COVID-19 outbreak](https://github.com/ChihLi/Understanding-Impact-of-weather-and-intervention-on-COVID-19-AoAs) (2022). *Annals of Applied Statistics*, 16(4), 2505-2522.
