@@ -13,7 +13,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
-* The paper "[Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://arxiv.org/abs/2009.12523)" has been accepted by Journal of the Royal Statistical Society: Series C. 
+* The paper "[Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://arxiv.org/abs/2009.12523)" has been accepted by [Journal of the Royal Statistical Society: Series C](https://doi.org/10.1093/jrsssc/qlad083). 
 * I will be presenting "Stacking designs: designing multi-fidelity computer experiments with confidence" at [The 2023 ICSA Applied Statistics Symposium](https://symposium2023.icsa.org/) on June 14, 2023. 
 * It's my pleasure to be the recipient of the [IMS New Researcher Travel Awards for 2023](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/). 
 * I will be presenting "Stacking designs: designing multi-fidelity computer experiments with confidence" at [Spring Research Conference 2023](https://sites.google.com/view/src2023/home) on May 25, 2023. 
