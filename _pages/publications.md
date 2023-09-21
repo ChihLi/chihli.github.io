@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p><span style="color: brown;">color</span> indicates supervised student</p>
+<p><span style="color: green;">color</span> indicates supervised student</p>
 
 {% for post in site.submitted reversed %}
   {% include archive-single.html %}
