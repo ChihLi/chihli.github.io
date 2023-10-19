@@ -13,7 +13,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
-* [Junoh Heo](https://directory.natsci.msu.edu/Directory/Profiles/Person/102488?org=2&group=188) presented our work "[Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://arxiv.org/abs/2309.11772)" at [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) and won the [INFORMS Quality Statistics and Reliability Best Student Paper Award](https://connect.informs.org/qsr/awards)
+* [Junoh Heo](https://directory.natsci.msu.edu/Directory/Profiles/Person/102488?org=2&group=188) presented our work "[Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://arxiv.org/abs/2309.11772)" at [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) and won the [INFORMS 2023 QSR Best Student Paper Award](https://connect.informs.org/qsr/awards)
 * The paper "[Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://arxiv.org/abs/2009.12523)" has been accepted by [Journal of the Royal Statistical Society: Series C](https://doi.org/10.1093/jrsssc/qlad083). 
 * I will be presenting "Stacking designs: designing multi-fidelity computer experiments with confidence" at [The 2023 ICSA Applied Statistics Symposium](https://symposium2023.icsa.org/) on June 14, 2023. 
 * It's my pleasure to be the recipient of the [IMS New Researcher Travel Awards for 2023](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/). 
