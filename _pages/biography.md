@@ -29,7 +29,7 @@ Editorial Services
 
 Honors and Awards
 ======
-* [QSR Best Student Paper Winner](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_2023informsannualmeeting-informs-quality-activity-7120885648810512385-T8P4?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy): 2023, INFORMS (Student: [Junoh Heo](https://directory.natsci.msu.edu/Directory/Profiles/Person/102488?org=2&group=188))
+* [QSR Best Student Paper Winner](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop): 2023, INFORMS (Student: [Junoh Heo](https://directory.natsci.msu.edu/Directory/Profiles/Person/102488?org=2&group=188))
 * [IMS New Researcher Travel Award](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/): 2023, The Institute of Mathematical Statistics (IMS)
 * [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false): 2021-2024 (PI, $142,009), NSF DMS 2113407
 * Full Membership in Sigma Xi: 2021, The Scientific Research Honor Society
