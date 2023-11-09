@@ -12,7 +12,7 @@ PhD students
 ======
 
 ### Michigan State University
-* [Romain Boutelet](https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188) (2023 -  present) Co-supervised with [Prof. Andrew O. Finley](https://www.finley-lab.com/)
+* [Romain Boutelet](https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188) (2023 -  present) Co-supervised with Prof. [Andrew O. Finley](https://www.finley-lab.com/)
 * [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (2022 -  present)
 * [Junoh Heo](https://directory.natsci.msu.edu/Directory/Profiles/Person/102488?org=2&group=188) (2021 -  present)
 
