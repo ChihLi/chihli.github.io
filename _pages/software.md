@@ -10,6 +10,7 @@ redirect_from:
 
 R Packages
 ======
+* [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html): Recursive non-additive emulator for multi-fidelity data
 * [mcGP](https://github.com/ChihLi/mcGP): Perform the mesh-clustered Gaussian process emulator for partial differential equation systems
 * [GPcluster](https://github.com/ChihLi/GPcluster): Perform the clustered Gaussian process model proposed by Sung et al. (2023) Statistica Sinica
 * [HetCalibrate](https://github.com/ChihLi/HetCalibrate): Calibration parameter estimation for inexact computer models with heteroscedastic errors
