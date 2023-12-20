@@ -11,12 +11,14 @@ redirect_from:
 R Packages
 ======
 * [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html): Recursive non-additive emulator for multi-fidelity data
+[![](https://cranlogs.r-pkg.org/badges/RNAmf)](https://cran.r-project.org/package=RNAmf)
 * [mcGP](https://github.com/ChihLi/mcGP): Perform the mesh-clustered Gaussian process emulator for partial differential equation systems
 * [GPcluster](https://github.com/ChihLi/GPcluster): Perform the clustered Gaussian process model proposed by Sung et al. (2023) Statistica Sinica
 * [HetCalibrate](https://github.com/ChihLi/HetCalibrate): Calibration parameter estimation for inexact computer models with heteroscedastic errors
-* [calibrateBinary](https://cran.r-project.org/web/packages/calibrateBinary/index.html): Calibration for computer experiments with binary responses
-* [binaryGP](https://cran.r-project.org/web/packages/binaryGP/index.html): Fit and predict a Gaussian process model with (time-series) binary response
+* [calibrateBinary](https://cran.r-project.org/web/packages/calibrateBinary/index.html): Calibration for computer experiments with binary responses[![](https://cranlogs.r-pkg.org/badges/calibrateBinary)](https://cran.r-project.org/package=calibrateBinary)
+* [binaryGP](https://cran.r-project.org/web/packages/binaryGP/index.html): Fit and predict a Gaussian process model with (time-series) binary response[![](https://cranlogs.r-pkg.org/badges/binaryGP)](https://cran.r-project.org/package=binaryGP)
 * [MRFA](https://cran.r-project.org/web/packages/MRFA/index.html): Fitting and predicting large-scale nonlinear regression problems using multi-resolution functional ANOVA (MRFA) approach
+[![](https://cranlogs.r-pkg.org/badges/MRFA)](https://cran.r-project.org/package=MRFA)
 
 <br>
   
