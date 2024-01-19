@@ -17,6 +17,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 News 
 ------
 * I’m very honored and grateful to receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018). 
+* The paper "A review on computer model calibration" has been accepted by WIREs Computational Statistics. 
 * The paper "[Stacking designs: designing multi-fidelity computer experiments with target predictive accuracy](https://arxiv.org/abs/2211.00268)" has been accepted by SIAM/ASA Journal on Uncertainty Quantification. 
 * [Junoh Heo](https://directory.natsci.msu.edu/Directory/Profiles/Person/102488?org=2&group=188) presented our work "[Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://arxiv.org/abs/2309.11772)" at [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) and won the [INFORMS 2023 QSR Best Student Paper](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop)
 * The paper "[Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://arxiv.org/abs/2009.12523)" has been accepted by [Journal of the Royal Statistical Society: Series C](https://doi.org/10.1093/jrsssc/qlad083). 
