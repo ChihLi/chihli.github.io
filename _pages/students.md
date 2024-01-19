@@ -57,4 +57,5 @@ Undergraduate Students
 
 ### Michigan State University
 
+* Aditya Pendyala (2024-present)
 * Noah Jankowski (2021-2022)
