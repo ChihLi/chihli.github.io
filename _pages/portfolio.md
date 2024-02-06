@@ -24,6 +24,6 @@ My research focus is to tackle these challenges by providing modern, efficient s
 Special thanks to MSU, [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false) and [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) for their support of this research.
 
 <img src='/images/NSF.png' width="120" height="120" style="float:left">
-<img src='/images/MSU.png' width="75" height="75" style="float:left">
+<img src='/images/MSU.png' width="80" height="80" align="middle">
 
 
