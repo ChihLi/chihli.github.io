@@ -22,4 +22,4 @@ News
 
 Special thanks to MSU, [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false) and [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) for their support.
 
-<img src='/images/MSUNSF.png' width="240" height="120" style="float:left">
+<img src='/images/MSUNSF.png' width="360" height="180" style="float:left">
