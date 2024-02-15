@@ -27,7 +27,7 @@ R Packages
 
 Reproducibility
 ======
-* [Mesh-clustered Gaussian process emulator for partial differential equation systems](https://github.com/ChihLi/mcGP-Reproducibility) (2024) *Technometrics*
+* [Mesh-clustered Gaussian process emulator for partial differential equation boundary value problems](https://github.com/ChihLi/mcGP-Reproducibility) (2024) *Technometrics*
 * [Stacking designs: designing multi-fidelity computer experiments with target predictive accuracy](https://github.com/ChihLi/StackingDesign-Reproducibility) (2024) *JUQ*
 * [Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://github.com/ChihLi/Epidemic-Models-Calibration) (2024) *JRSSC*
 * [Functional-input Gaussian processes with applications to inverse scattering problems](https://github.com/ChihLi/functional-input-GP) (2024) *Statistica Sinica*
