@@ -12,7 +12,7 @@ R Packages
 ======
 * [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html): Recursive non-additive emulator for multi-fidelity data
 ![](https://cranlogs.r-pkg.org/badges/grand-total/RNAmf)
-* [mcGP](https://github.com/ChihLi/mcGP): Perform the mesh-clustered Gaussian process emulator for partial differential equation systems
+* [mcGP](https://github.com/ChihLi/mcGP): Perform the mesh-clustered Gaussian process emulator for partial differential equation boundary value problems
 * [GPcluster](https://github.com/ChihLi/GPcluster): Perform the clustered Gaussian process model proposed by Sung et al. (2023) Statistica Sinica
 * [HetCalibrate](https://github.com/ChihLi/HetCalibrate): Calibration parameter estimation for inexact computer models with heteroscedastic errors
 * [calibrateBinary](https://cran.r-project.org/web/packages/calibrateBinary/index.html): Calibration for computer experiments with binary responses
@@ -27,9 +27,9 @@ R Packages
 
 Reproducibility
 ======
-* [Mesh-clustered Gaussian process emulator for partial differential equation systems](https://github.com/ChihLi/mcGP-Reproducibility) (2023)
-* [Stacking designs: designing multi-fidelity computer experiments with target predictive accuracy](https://github.com/ChihLi/StackingDesign-Reproducibility) (2023) *JUQ*
-* [Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://github.com/ChihLi/Epidemic-Models-Calibration) (2023) *JRSSC*
+* [Mesh-clustered Gaussian process emulator for partial differential equation systems](https://github.com/ChihLi/mcGP-Reproducibility) (2024) *Technometrics*
+* [Stacking designs: designing multi-fidelity computer experiments with target predictive accuracy](https://github.com/ChihLi/StackingDesign-Reproducibility) (2024) *JUQ*
+* [Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://github.com/ChihLi/Epidemic-Models-Calibration) (2024) *JRSSC*
 * [Functional-input Gaussian processes with applications to inverse scattering problems](https://github.com/ChihLi/functional-input-GP) (2024) *Statistica Sinica*
 * [Calibration of inexact computer models with heteroscedastic errors](https://github.com/ChihLi/HetCalibrate-Reproducibility) (2022). *SIAM/ASA Journal on Uncertainty Quantification*, 10(4), 1733-1752.
 * [Estimating functional parameters for understanding the impact of weather and government interventions on COVID-19 outbreak](https://github.com/ChihLi/Understanding-Impact-of-weather-and-intervention-on-COVID-19-AoAs) (2022). *Annals of Applied Statistics*, 16(4), 2505-2522.
