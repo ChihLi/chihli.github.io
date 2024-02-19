@@ -16,8 +16,8 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 News 
 ------
 * I’m very honored and grateful to receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018). 
+* [02/19/2024] The paper "A review on computer model calibration" is published in [WIREs Computational Statistics](https://doi.org/10.1002/wics.1645). 
 * [02/14/2024] The paper "[Mesh-clustered Gaussian process emulator for partial differential equation boundary value problems](https://arxiv.org/abs/2301.10387)" has been accepted by Technometrics. 
-* [01/18/2024] The paper "A review on computer model calibration" has been accepted by WIREs Computational Statistics. 
 
 
 Special thanks to MSU, [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false) and [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) for their support.
