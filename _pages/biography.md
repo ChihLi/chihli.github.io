@@ -17,7 +17,13 @@ Work experience
 Education
 ======
 * Ph.D in Industrial Engineering, Georgia Institute of Technology, U.S.A. (2014 - 2018)
+	
+	* Thesis advisors: Profs. [C. F. Jeff Wu](https://www2.isye.gatech.edu/~jeffwu/) and [Benjamin Haaland](https://medicine.utah.edu/faculty/mddetail/u6012617)
+ 
 * M.S. in Statistics, National Tsing Hua University, Taiwan (2008 - 2010)
+
+	* Thesis advisor: Prof. [Shao-Wei Cheng](http://www.stat.nthu.edu.tw/~swcheng/index.htm)
+
 * B.S. in Applied Mathematics, National Tsing Hua University, Taiwan (2004 - 2008)
 
   
