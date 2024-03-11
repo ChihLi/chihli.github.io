@@ -15,9 +15,10 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
-* I’m very honored and grateful to receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018). 
-* [02/19/2024] The paper "A review on computer model calibration" is published in [WIREs Computational Statistics](https://doi.org/10.1002/wics.1645). 
-* [02/14/2024] The paper "Mesh-clustered Gaussian process emulator for partial differential equation boundary value problems" has been accepted by [Technometrics](https://urldefense.com/v3/__https://url6649.tandfonline.com/ls/click?upn=odl8Fji2pFaByYDqV3bjGMQo8st9of2228V6AcSFNq3t86qU90pAx-2BEad4OTI0D6V2Tndw8-2FZmxCHkrgd11-2FyuC2a7ise0ZHPTGFTzfEf44-3Di9iC_Gswa-2BcZhV277IK06jHI2PQU1-2FYLVEsQ3QQiYly1TNYb6QNPnvNRlhuw-2BcGDUV-2BMg-2BWBbYxLLwRmOlmXhTBWV9pfxIdME1ulNpRmd-2BWnjOTSR-2BKAQ1Wn2hYCa3bwpSTycGkl2vfgrFKUuhQGhCgYG83-2BeH-2BAyrK2fZu2Pi79plPpi46T6acWfjTLY6HrW9Y01uTFotYV8WrFiIDZZ-2BrI0fs1ClBsyJ-2FGa5mxHHAFGw0p6j4A2cwbXZnNGBCCxu0sWoRi0n80RMPDtiOHtG8Y0GfT7MhVqTgAzbd62EZZEZqQ-3D__;!!HXCxUKc!0ccEnRsdJEmzaQCjlY_12HMxO90E3hK_bhwPS1MVPbN4Vu4lRVnjubNLuBljT9lG_rxqVu94DAwzWnI$). 
+
+* 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018). 
+* **[Feb 2024]** The paper "A review on computer model calibration" is published in [WIREs Computational Statistics](https://doi.org/10.1002/wics.1645). 
+* **[Feb 2024]** The paper "Mesh-clustered Gaussian process emulator for partial differential equation boundary value problems" has been accepted by [Technometrics](https://urldefense.com/v3/__https://url6649.tandfonline.com/ls/click?upn=odl8Fji2pFaByYDqV3bjGMQo8st9of2228V6AcSFNq3t86qU90pAx-2BEad4OTI0D6V2Tndw8-2FZmxCHkrgd11-2FyuC2a7ise0ZHPTGFTzfEf44-3Di9iC_Gswa-2BcZhV277IK06jHI2PQU1-2FYLVEsQ3QQiYly1TNYb6QNPnvNRlhuw-2BcGDUV-2BMg-2BWBbYxLLwRmOlmXhTBWV9pfxIdME1ulNpRmd-2BWnjOTSR-2BKAQ1Wn2hYCa3bwpSTycGkl2vfgrFKUuhQGhCgYG83-2BeH-2BAyrK2fZu2Pi79plPpi46T6acWfjTLY6HrW9Y01uTFotYV8WrFiIDZZ-2BrI0fs1ClBsyJ-2FGa5mxHHAFGw0p6j4A2cwbXZnNGBCCxu0sWoRi0n80RMPDtiOHtG8Y0GfT7MhVqTgAzbd62EZZEZqQ-3D__;!!HXCxUKc!0ccEnRsdJEmzaQCjlY_12HMxO90E3hK_bhwPS1MVPbN4Vu4lRVnjubNLuBljT9lG_rxqVu94DAwzWnI$). 
 
 
 Special thanks to MSU, [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false) and [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) for their support.
