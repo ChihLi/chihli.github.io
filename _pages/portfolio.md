@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research is rooted in the area of Computer Experiments/Uncertainty Quantification, but spans a range of applications from COVID-19 analysis to deep learning.
+My research is rooted in the area of Computer Experiments/Uncertainty Quantification/Digital Twins, but spans a range of applications from COVID-19 analysis to deep learning.
 
 
 <img src='/images/researchroot.png' width="400" height="400" style="float:right">
