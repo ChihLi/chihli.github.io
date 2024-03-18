@@ -34,14 +34,14 @@ PhD students
 Master Students
 ======
 
-* Haojun Yang  (2021-2022, MSU)
-* [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (2021-2022, MSU)
+* Haojun Yang  (*MSU*, 2021-2022)
+* [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (*MSU*, 2021-2022)
     Current position: Ph.D. student at MSU
-* Kun Xia (2021-2022, MSU)
-* [Ashton Pallottini](https://www.ashtonpallottini.com/) (2019-2020, MSU)
+* Kun Xia (*MSU*, 2021-2022)
+* [Ashton Pallottini](https://www.ashtonpallottini.com/) (*MSU*, 2019-2020)
     Current position: Ph.D. student at U. of Chicago
-* Jinwon Park (2019-2020, MSU)
-* Wei Chen (2020-2021, Florida Tech)
+* Jinwon Park (*MSU*, 2019-2020)
+* Wei Chen (*Florida Tech*, 2020-2021)
     Primary advisor: Prof. [Xingjian Wang](https://www.depe.tsinghua.edu.cn/depeen/info/1297/1261.htm)
 
 
@@ -50,6 +50,6 @@ Master Students
 Undergraduate Students
 ======
 
-* Chungmin Lee (2024-present, Yonsei University)
-* Aditya Pendyala (2024-present, MSU)
-* Noah Jankowski (2021-2022, MSU)
+* Chungmin Lee (*Yonsei University*, 2024-present)
+* Aditya Pendyala (*MSU*, 2024-present)
+* Noah Jankowski (*MSU*, 2021-2022)
