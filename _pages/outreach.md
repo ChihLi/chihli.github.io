@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /software/
+permalink: /outreach/
 author_profile: true
 redirect_from:
   - /software
