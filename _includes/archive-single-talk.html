@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" | sort: 'name' | reverse %}
 
 {% for year in posts_by_year %}
   <h2>{{ year.name }}</h2>
@@ -32,9 +32,9 @@
         {% endif %}
         <h2 class="archive__item-title" itemprop="headline">
           {% if post.link %}
-            <a href="{{ post.link }}">{{ title }}</a>
+            <a href="{{ post.link }}">{{ post.title }}</a>
           {% else %}
-            {{ title }}
+            {{ post.title }}
           {% endif %}
         </h2>
         {% if post.read_time %}
