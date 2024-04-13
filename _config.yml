@@ -187,6 +187,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -249,6 +252,15 @@ defaults:
   - scope:
       path: ""
       type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
     values:
       layout: single
       author_profile: true
