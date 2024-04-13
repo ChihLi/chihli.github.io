@@ -22,6 +22,6 @@ We share our commitment to community engagement, education, and making a positiv
 * [Gifted Education Symposium](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWGJHgifted%2Fposts%2Fpfbid02vVLoK1SDNGH6TLW1yqVofWi2M5pM8h7tUhNMXai8rMXwnxdTp3ZmeHayGRBycKMJl&show_text=true&width=500) at [Municipal Wenguangguomin Junior High School](http://www.wgjh.phc.edu.tw/): I shared my career journey and applications of statistics and AI, as well as future opportunities in these areas, with junior high school students in Penghu, Taiwan.
 
 <div style="display: flex; justify-content: center;">
-    <img src='/images/Penghu Outreach.jpeg' width="300" height="600" style="margin-right: 10px;">
-    <img src='/images/Penghu Outreach 2.jpeg' width="800" height="600">
+    <img src='/images/Penghu Outreach.jpeg' width="150" height="300" style="margin-right: 10px;">
+    <img src='/images/Penghu Outreach 2.jpeg' width="450" height="300">
 </div>
