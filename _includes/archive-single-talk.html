@@ -12,32 +12,38 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
+{% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% for year in posts_by_year %}
+  <h2>{{ year.name }}</h2>
+  {% for post in year.items %}
+    <div class="{{ include.type | default: "list" }}__item">
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if include.type == "grid" and teaser %}
+          <div class="archive__item-teaser">
+            <img src=
+              {% if teaser contains "://" %}
+                "{{ teaser }}"
+              {% else %}
+                "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+              {% endif %}
+              alt="">
+          </div>
+        {% endif %}
+        <h2 class="archive__item-title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a>
           {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            {{ title }}
           {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
-      {% else %}
-        {{ title }}
-      {% endif %}
-    </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{post.location}}; {{post.type}} <br>Title: <i>{{ post.venue }}</i> {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
-    
-  </article>
-</div>
+        </h2>
+        {% if post.read_time %}
+          <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        {% endif %}
+        {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+        {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{post.location}}; {{post.type}} <br>Title: <i>{{ post.venue }}</i> {% endif %}
+        {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+      </article>
+    </div>
+  {% endfor %}
+{% endfor %}
