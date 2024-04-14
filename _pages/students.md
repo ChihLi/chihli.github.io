@@ -17,6 +17,9 @@ PhD students
 * [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (2022 -  present)
 * [Junoh Heo](https://heojunoh.github.io/) (2021 -  present)
 
+<img src='/images/student_pic.jpeg' width="600" height="464" style="margin: 0 auto; display: block;">
+
+
 ### National Cheng Kung University
 
 * Wei-Ann Lin (2019 -  present) 
