@@ -16,9 +16,10 @@ We share our commitment to community engagement, education, and making a positiv
 
 <img src='/images/2024 MSU Science Festival.png' width="600" height="600" style="margin: 0 auto; display: block;">
 
-<img src='/images/MSU sciecne 2.jpeg' width="300" height="400">
-<img src='/images/MSU sciecne 1.jpeg' width="300" height="400">
-
+<div style="text-align: center;">
+	<img src='/images/MSU sciecne 2.jpeg' width="300" height="400">
+	<img src='/images/MSU sciecne 1.jpeg' width="300" height="400">
+</div>
 
 2023
 ======
