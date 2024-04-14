@@ -3,7 +3,7 @@ layout: archive
 permalink: /outreach/
 author_profile: true
 redirect_from:
-  - /software
+  - /outreach
 ---
 
 {% include base_path %}
