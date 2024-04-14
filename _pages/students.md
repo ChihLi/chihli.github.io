@@ -17,10 +17,12 @@ PhD students
 * [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (2022 -  present)
 * [Junoh Heo](https://heojunoh.github.io/) (2021 -  present)
 
+<div style="text-align: center;">
 <figure style="display: inline-block; width: 500px;">
 <img src='/images/student_pic.jpeg' width="500" height="387" style="margin: 0 auto; display: block;">
-<figcaption>Photo taken at the MSU Science Festival. From left: Chun-Yi, me, Andrews, Romain, and Junoh.</figcaption>
+<figcaption>Photo taken at the MSU Science Festival in April 2024. From left: Chun-Yi, me, Andrews, Romain, and Junoh.</figcaption>
 </figure>
+</div>
 
 ### National Cheng Kung University
 
