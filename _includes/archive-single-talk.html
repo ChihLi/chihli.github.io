@@ -1,6 +1,5 @@
 {% include base_path %}
 
-{% comment %}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -12,7 +11,6 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-{% endcomment %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
