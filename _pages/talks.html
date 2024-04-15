@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% assign talks_by_year = site.talks | group_by_exp: "post", "post.date | date: '%Y'" %}
 
+{% for year in talks_by_year %}
+  <h2>{{ year.name }}</h2>
+  {% for post in year.items reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+{% endfor %}
 
 {% if site.talkmap_link == true %}
 
