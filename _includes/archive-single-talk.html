@@ -1,3 +1,4 @@
+{% comment %}
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -5,6 +6,7 @@
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
+{% endcomment %}
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
