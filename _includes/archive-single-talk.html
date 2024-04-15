@@ -6,15 +6,23 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% comment %}
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-{% endcomment %}
 
-{% assign title = post.title %}
+<style>
+  ul {
+    margin-top: 0; /* Adjust as needed */
+    margin-bottom: 0; /* Adjust as needed */
+  }
+
+  li {
+    margin-top: 0; /* Adjust as needed */
+    margin-bottom: 0; /* Adjust as needed */
+  }
+</style>
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
