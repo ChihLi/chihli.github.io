@@ -8,8 +8,8 @@ author_profile: true
 
 {% assign talks_by_year = site.talks | group_by_exp: "post", "post.date | date: '%Y'" %}
 
-{% for year in talks_by_year %}
-  <h2>{{ year.name }}</h2>
+{% for year in talks_by_year reversed %}
+  <h2 style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">{{ year.name }}</h2>
   {% for post in year.items reversed %}
     {% include archive-single-talk.html %}
   {% endfor %}
