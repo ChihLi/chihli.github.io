@@ -5,12 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+<div style="margin-bottom: 20px;"></div>
 
 {% assign talks_by_year = site.talks | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year in talks_by_year reversed %}
   <h1>{{ year.name }}</h1>
   {% for post in year.items reversed %}
+    <div style="margin-top: 5px;"></div>
     {% include archive-single-talk.html %}
   {% endfor %}
 {% endfor %}
