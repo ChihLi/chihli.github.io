@@ -5,6 +5,11 @@ var addressPoints = [
     120.6478282
   ],
   [
+    "College Station, TX",
+    30.6183939,
+    -96.3455991
+  ],
+  [
     "Taipei, Taiwan",
     25.0375198,
     121.5636796
@@ -35,6 +40,11 @@ var addressPoints = [
     126.9782914
   ],
   [
+    "Hsinchu, Taiwan",
+    24.8066333,
+    120.9686833
+  ],
+  [
     "Atlanta, GA",
     33.7489924,
     -84.3902644
@@ -48,6 +58,11 @@ var addressPoints = [
     "Houston, TX",
     29.7589382,
     -95.3676974
+  ],
+  [
+    "Amherst, MA",
+    42.3731948,
+    -72.5198761
   ],
   [
     "East Lansing, MI",
@@ -66,8 +81,8 @@ var addressPoints = [
   ],
   [
     "Ann Arbor, MI",
-    42.2681569,
-    -83.7312291
+    42.2813722,
+    -83.7484616
   ],
   [
     "Chicago, IL",
@@ -88,11 +103,6 @@ var addressPoints = [
     "Banff, AB",
     51.175076,
     -115.5720773
-  ],
-  [
-    "Hsinchu, Taiwan",
-    24.8066333,
-    120.9686833
   ],
   [
     "Greensboro, North Carolina",
