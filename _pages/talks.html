@@ -10,6 +10,7 @@ author_profile: true
 {% for year in talks_by_year reversed %}
   <div style="margin-bottom: 30px;"></div>
   <h1><span style="color: darkgreen;">{{ year.name }}</span></h1>
+  <hr>
   {% for post in year.items reversed %}
     {% include archive-single-talk.html %}
   {% endfor %}
