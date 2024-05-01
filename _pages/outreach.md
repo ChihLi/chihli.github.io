@@ -23,7 +23,7 @@ We share our commitment to community engagement, education, and making a positiv
 
 * [Discovering America Program](https://math.msu.edu/Exchange/discovering-america.aspx): I had the honor of mentoring an exchange student at Xian University from the [REU (Research Experiences for Undergraduates) exchange program](https://math.msu.edu/Exchange/index.aspx), alongside three talented MSU undergraduate students. As part of this program, I had the privilege of supervising an undergraduate research project titled "March Machine Learning Mania 2024," fostering innovation and exploration in the realm of machine learning.
 
-<figure style="margin-left: auto; margin-right: auto; width: 70%;">
+<figure style="margin-left: auto; margin-right: auto; width: 80%;">
 <img src='/images/2024REU.jpeg' width="600" height="464">
 <figcaption>Photo taken at our team's presentation showcasing the results of our REU projects in 2024 spring. From left: Xun Lu, Tri Duc Nguyen, Elisha Alemao, and Tarun Rawat.</figcaption>
 </figure>
