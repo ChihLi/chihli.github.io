@@ -18,6 +18,8 @@ author_profile: true
 Publications
 ======
 
+<p><span style="color: green;">color</span> indicates supervised student</p>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
