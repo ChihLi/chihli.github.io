@@ -17,7 +17,7 @@ News
 ------
 
 * 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018). 
-* **[May 2024]** The paper "Category tree Gaussian process for computer experiments with many-category qualitative factors and application to cooling system design" has been accepted by Journal of Quality Technology.
+* **[May 2024]** The paper "Category tree Gaussian process for computer experiments with many-category qualitative factors and application to cooling system design" has been accepted by [Journal of Quality Technology](https://doi.org/10.1080/00224065.2024.2359431).
 * **[April 2024]** Our lab hosted an engaging event: "[Rolling the Dice: Unveiling Normal Distributions](https://sciencefestival.msu.edu/Event/View/129)" as part of the [MSU Science Festival](https://sciencefestival.msu.edu/). Our booth provided a fun and hands-on learning experience, helping learners of all ages understand the concept of normal distribution through fun and interactive games. 
 * **[March 2024]** The paper "Stacking designs: designing multifidelity computer experiments with target predictive accuracy" is published in [SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/doi/full/10.1137/22M1532007). 
 * **[Feb 2024]** The paper "A review on computer model calibration" is published in [WIREs Computational Statistics](https://doi.org/10.1002/wics.1645). 
