@@ -45,6 +45,11 @@ var addressPoints = [
     120.9686833
   ],
   [
+    "Kaohsiung, Taiwan",
+    22.6203348,
+    120.3120375
+  ],
+  [
     "Atlanta, GA",
     33.7489924,
     -84.3902644
