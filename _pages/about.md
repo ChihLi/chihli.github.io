@@ -17,6 +17,7 @@ News
 ------
 
 * 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018). 
+* **[August 2024]** I will be presenting "Functional-input Gaussian processes with applications to inverse scattering problems" [slides](https://chihli.github.io/files/FIGP_2024JSM.pdf) in the session [Advances in Statistical Learning and Uncertainty Quantification: Theory and Computation](https://ww3.aievolution.com/JSMAnnual2024/index.cfm?do=ev.viewEv&ev=2139) at 2024 JSM
 * **[June 2024]** The paper "Active learning for a recursive non-additive emulator for multi-fidelity computer experiments" has been accepted by [Technometrics](https://doi.org/10.1080/00401706.2024.2376173).
 * **[May 2024]** The paper "Category tree Gaussian process for computer experiments with many-category qualitative factors and application to cooling system design" has been accepted by [Journal of Quality Technology](https://doi.org/10.1080/00224065.2024.2359431).
 * **[April 2024]** Our lab hosted an engaging event: "[Rolling the Dice: Unveiling Normal Distributions](https://sciencefestival.msu.edu/Event/View/129)" as part of the [MSU Science Festival](https://sciencefestival.msu.edu/). Our booth provided a fun and hands-on learning experience, helping learners of all ages understand the concept of normal distribution through fun and interactive games. 
