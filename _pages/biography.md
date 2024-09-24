@@ -26,7 +26,7 @@ Education
 Editorial Services
 ======
 * Associate Editor, [The New England Journal of Statistics in Data Science](https://journal.nestat.org/section_pages/engineering_science) (2024 - present)
-* Associate Editor, [Technometrics](https://www.tandfonline.com/toc/utch20/current) (2022 - present)
+* Associate Editor, [Technometrics](https://www-tandfonline-com.proxy2.cl.msu.edu/journals/utch20/about-this-journal#editorial-board) (2022 - present)
 * Associate Editor, [Computational Statistics & Data Analysis](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis) (2021 - present)
 
 
