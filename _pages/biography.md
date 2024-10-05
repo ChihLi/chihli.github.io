@@ -32,7 +32,7 @@ Editorial Services
 
 Honors and Awards
 ======
-* [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx): 2024-2029 (PI, $423,591), NSF DMS 2338018
+* [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx): 2024, National Science Foundation
 * [QSR Best Student Paper Winner](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop): 2023, INFORMS (Student: [Junoh Heo](https://heojunoh.github.io/))
 * [IMS New Researcher Travel Award](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/): 2023, The Institute of Mathematical Statistics (IMS)
 * Full Membership in Sigma Xi: 2021, The Scientific Research Honor Society
