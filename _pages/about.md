@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Chih-Li Sung (pronounced CHI LEE SUNG) is an Assistant Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). His research interests include **computer experiment, uncertainty quantification, machine learning, and applications of statistics in engineering**. His research is supported by [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false) and [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018).
+Chih-Li Sung (pronounced CHI LEE SUNG) is an Assistant Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). His research interests include **computer experiment, uncertainty quantification, machine learning, and applications of statistics in engineering**. His research is partially supported by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018).
 
 
 He was awarded [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) (2024-2029), and awarded [Statistics in Physical Engineering Sciences (SPES) Award](https://www.amstat.org/your-career/awards/statistics-in-physical-engineering-sciences-award) from ASA in 2019. He is currently an associate editor for [Technometrics](https://www.tandfonline.com/toc/utch20/current) and [Computational Statistics & Data Analysis](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis) (CSDA). 
@@ -16,7 +16,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 News 
 ------
 
-* 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018). 
+* 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx). 
 * **[August 2024]** I will be presenting "Functional-input Gaussian processes with applications to inverse scattering problems" ([slides](https://chihli.github.io/files/FIGP_2024JSM.pdf)) in the session [Advances in Statistical Learning and Uncertainty Quantification: Theory and Computation](https://ww3.aievolution.com/JSMAnnual2024/index.cfm?do=ev.viewEv&ev=2139) at 2024 JSM
 * **[June 2024]** The paper "Active learning for a recursive non-additive emulator for multi-fidelity computer experiments" has been accepted by [Technometrics](https://doi.org/10.1080/00401706.2024.2376173).
 * **[May 2024]** The paper "Category tree Gaussian process for computer experiments with many-category qualitative factors and application to cooling system design" has been accepted by [Journal of Quality Technology](https://doi.org/10.1080/00224065.2024.2359431).

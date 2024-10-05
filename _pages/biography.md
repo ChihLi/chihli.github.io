@@ -32,10 +32,9 @@ Editorial Services
 
 Honors and Awards
 ======
-* [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018): 2024-2029 (PI, $423,591), NSF DMS 2338018
+* [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx): 2024-2029 (PI, $423,591), NSF DMS 2338018
 * [QSR Best Student Paper Winner](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop): 2023, INFORMS (Student: [Junoh Heo](https://heojunoh.github.io/))
 * [IMS New Researcher Travel Award](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/): 2023, The Institute of Mathematical Statistics (IMS)
-* [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false): 2021-2024 (PI, $142,009), NSF DMS 2113407
 * Full Membership in Sigma Xi: 2021, The Scientific Research Honor Society
 * [Statistics in Physical Engineering Sciences (SPES) Award](https://www.amstat.org/your-career/awards/statistics-in-physical-engineering-sciences-award): 2019, American Statistical Association (ASA)
 * [Alice and John Jarvis, Ph.D. Student Research Award](https://www.isye.gatech.edu/news/isye-presents-graduate-undergraduate-awards-outstanding-students-1) (Honorable Mention): 2018, Stewart School of Industrial & Systems Engineering (ISyE), Georgia Tech
@@ -45,3 +44,8 @@ Honors and Awards
 * [Hacklytics 3rd Place](https://atdc.org/atdc-news/atdc-sponsored-hacklytics-competition-winners-named/): 2016, Data Science, Georgia Tech
 * Dr. Chen Wen-Chen Statistics Science Thesis Research Award: 2010, Dr. Chen Wen-Chen Memorial Foundation
 * Academic Achievement Award: 2007, National Tsing Hua University
+
+Grants
+======
+* [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018): 2024-2029 (PI, $423,591) *CAREER: Single-Fidelity vs. Multi-Fidelity Computer Experiments: Unveiling the Effectiveness of Multi-Fidelity Emulation*
+* [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false): 2021-2024 (PI, $142,009) *Collaborative Research: Efficient Bayesian Global Optimization with Applications to Deep Learning and Computer Experiments*
