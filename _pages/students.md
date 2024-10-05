@@ -31,7 +31,7 @@ PhD students
 
 ### MSU [IMPACTS](https://impacts.natsci.msu.edu/) Trainees
 
-* [Duncan Boren](https://directory.natsci.msu.edu/Directory/Profiles/Person/100315) (2022 -  present) 
+* [Duncan Boren](https://directory.natsci.msu.edu/Directory/Profiles/Person/100315) (2022 -  2023) 
     Primary mentor: [Josh Vermaas](https://directory.natsci.msu.edu/Directory/Profiles/Person/100419)
 * [Joshua Kaste](https://directory.natsci.msu.edu/Directory/Profiles/Person/100288) (2020 -  2021) 
     Primary mentor: [Yair Shachar-Hill](https://shachar-hilllab.natsci.msu.edu/)
