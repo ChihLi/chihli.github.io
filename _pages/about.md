@@ -26,6 +26,6 @@ News
 * **[Feb 2024]** The paper "Mesh-clustered Gaussian process emulator for partial differential equation boundary value problems" has been accepted by [Technometrics](https://doi.org/10.1080/00401706.2024.2320211). 
 
 
-Special thanks to MSU, [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false) and [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) for their support.
+Special thanks to MSU and NSF for their support.
 
 <img src='/images/MSUNSF.png' width="240" height="120" style="float:left">
