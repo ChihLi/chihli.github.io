@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Chih-Li Sung (pronounced CHI LEE SUNG) is an Assistant Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). His research interests include **computer experiment, uncertainty quantification, machine learning, and applications of statistics in engineering**. His research is partially supported by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018).
+Chih-Li Sung (pronounced CHI LEE SUNG) is an Assistant Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). His research interests include **computer experiment, uncertainty quantification, machine learning, and applications of statistics in engineering**. His research is partially supported by National Science Foundation (NSF).
 
 
 He was awarded [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) (2024-2029), and awarded [Statistics in Physical Engineering Sciences (SPES) Award](https://www.amstat.org/your-career/awards/statistics-in-physical-engineering-sciences-award) from ASA in 2019. He is currently an associate editor for [Technometrics](https://www.tandfonline.com/toc/utch20/current) and [Computational Statistics & Data Analysis](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis) (CSDA). 
