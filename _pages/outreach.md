@@ -10,9 +10,15 @@ redirect_from:
 
 We share our commitment to community engagement, education, and making a positive impact beyond academia.
 
+2025
+======
+* 13th Annual MSU Science Festival: [Dr. Guanqun Cao](https://sites.google.com/view/guanquncaowebpage) and I and I co-hosted an interactive exhibit titled **"Random Rolls, Smooth Spins: Revealing the Secrets of the Bell Curve"** as part of the 13th Annual MSU Science Festival—an annual, free celebration of science driven by curiosity, wonder, and discovery.
+
+<img src='/images/2025 MSU Science Festival.png' width="600" height="600" style="margin: 0 auto; display: block;">
+
 2024
 ======
-* [12th Annual MSU Science Festival](https://stt.natsci.msu.edu/news/stt-msu-science-festival.aspx): Our lab hosted an engaging event as part of the MSU Science Festival, which is a free annual celebration of science, fueled by some of the basic elements essential to scientific inquiry: curiosity, wonder, and discovery. Our [booth](https://sciencefestival.msu.edu/Event/View/129) provided a fun and hands-on learning experience, helping learners of all ages understand the concept of normal distribution through fun and interactive games. 
+* [12th Annual MSU Science Festival](https://stt.natsci.msu.edu/news/stt-msu-science-festival.aspx): During the 12th Annual MSU Science Festival, our lab presented **"Rolling the Dice: Unveiling Normal Distributions,"** a lively and educational event designed to make statistics fun and accessible.  
 
 <img src='/images/2024 MSU Science Festival.png' width="600" height="600" style="margin: 0 auto; display: block;">
 
