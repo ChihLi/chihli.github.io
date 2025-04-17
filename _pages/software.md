@@ -28,6 +28,7 @@ R Packages
 Reproducibility
 ======
 * [Uncertainty-aware out-of-distribution detection with Gaussian processes](https://github.com/YangChencyy/Uncertainty-Aware-Out-of-Distribution-Detection-with-Gaussian-Processes) (2024+)
+* [Advancing inverse scattering with surrogate modeling and Bayesian inference for functional inputs](https://github.com/ChihLi/Bayes-Inverse-FIGP) (2025) *SIAM/ASA Journal on Uncertainty Quantification*, 13(2), 339-517.
 * [Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://github.com/heojunoh/RNAmf-Reproducibility) (2025) *Technometrics*, 67(1), 58-72.
 * [Category tree Gaussian process for computer experiments with many-category qualitative factors and application to cooling system design](https://github.com/sagalin14/ctGP) (2024) *Journal of Quality Technology*, 56(5), 391-408.
 * [Mesh-clustered Gaussian process emulator for partial differential equation boundary value problems](https://github.com/ChihLi/mcGP-Reproducibility) (2024) *Technometrics*, 66(3), 406-421.
