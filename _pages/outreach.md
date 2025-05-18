@@ -20,7 +20,7 @@ We share our commitment to community engagement, education, and making a positiv
 
 2024
 ======
-* [12th Annual MSU Science Festival](https://stt.natsci.msu.edu/news/stt-msu-science-festival.aspx): During the 12th Annual MSU Science Festival, our lab presented **"Rolling the Dice: Unveiling Normal Distributions,"** a lively and educational event designed to make statistics fun and accessible.  
+* [12th Annual MSU Science Festival](https://stt.natsci.msu.edu/news/stt-msu-science-festival.aspx): During the 12th Annual MSU Science Festival, our lab presented "Rolling the Dice: Unveiling Normal Distributions," a lively and educational event designed to make statistics fun and accessible.  
 
 <img src='/images/2024 MSU Science Festival.png' width="600" height="600" style="margin: 0 auto; display: block;">
 
