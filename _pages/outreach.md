@@ -12,7 +12,9 @@ We share our commitment to community engagement, education, and making a positiv
 
 2025
 ======
-* 13th Annual MSU Science Festival: [Dr. Guanqun Cao](https://sites.google.com/view/guanquncaowebpage) and I and I co-hosted an interactive exhibit titled **"Random Rolls, Smooth Spins: Revealing the Secrets of the Bell Curve"** as part of the 13th Annual MSU Science Festival—an annual, free celebration of science driven by curiosity, wonder, and discovery.
+* Take Your Child to Work Day: [Dr. Guanqun Cao](https://sites.google.com/view/guanquncaowebpage) and I and I co-hosted an interactive exhibit titled **"Random Rolls, Smooth Spins: Revealing the Secrets of the Bell Curve"** as part of MSU’s annual Take Your Child to Work Day. This campus-wide event invites children to explore career paths through engaging, hands-on activities. 
+
+* 13th Annual MSU Science Festival: [Dr. Guanqun Cao](https://sites.google.com/view/guanquncaowebpage) and I co-hosted an interactive exhibit titled **"Random Rolls, Smooth Spins: Revealing the Secrets of the Bell Curve"** as part of the 13th Annual MSU Science Festival—an annual, free celebration of science driven by curiosity, wonder, and discovery.
 
 <img src='/images/2025 MSU Science Festival.png' width="600" height="600" style="margin: 0 auto; display: block;">
 
