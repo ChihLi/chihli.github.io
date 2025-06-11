@@ -27,6 +27,8 @@ R Packages
 
 Reproducibility
 ======
+* [Diffusion non-additive model for multi-fidelity simulations with tunable precision](https://github.com/heojunoh/DNAmf-Reproducibility) (2025+)
+* [Advancing inverse scattering with surrogate modeling and Bayesian inference for functional
 * [Uncertainty-aware out-of-distribution detection with Gaussian processes](https://github.com/YangChencyy/Uncertainty-Aware-Out-of-Distribution-Detection-with-Gaussian-Processes) (2024+)
 * [Advancing inverse scattering with surrogate modeling and Bayesian inference for functional inputs](https://github.com/ChihLi/Bayes-Inverse-FIGP) (2025) *SIAM/ASA Journal on Uncertainty Quantification*, 13(2), 339-517.
 * [Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://github.com/heojunoh/RNAmf-Reproducibility) (2025) *Technometrics*, 67(1), 58-72.
