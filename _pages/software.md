@@ -10,6 +10,8 @@ redirect_from:
 
 R Packages
 ======
+* [DNAmf](https://cran.r-project.org/web/packages/DNAmf/index.html): Diffusion non-additive model with tunable precision
+![](https://cranlogs.r-pkg.org/badges/grand-total/DNAmf)
 * [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html): Recursive non-additive emulator for multi-fidelity data
 ![](https://cranlogs.r-pkg.org/badges/grand-total/RNAmf)
 * [mcGP](https://github.com/ChihLi/mcGP): Perform the mesh-clustered Gaussian process emulator for partial differential equation boundary value problems
