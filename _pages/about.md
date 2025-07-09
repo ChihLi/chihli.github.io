@@ -17,7 +17,7 @@ News
 ------
 
 * 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx). 
-* **[July 2025]** I am honored to share that I have been promoted to **Associate Professor** in the Department of Statistics and Probability at Michigan State University 🎉.
+* 🎉 I’m honored to share that I have been promoted to **Associate Professor** in the Department of Statistics and Probability at Michigan State University.
 * **[April 2025]** The paper "Advancing inverse scattering with surrogate modeling and Bayesian inference for functional inputs" has been published in [SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/doi/full/10.1137/24M1637295).
 * **[August 2024]** I will be presenting "Functional-input Gaussian processes with applications to inverse scattering problems" ([slides](https://chihli.github.io/files/FIGP_2024JSM.pdf)) in the session [Advances in Statistical Learning and Uncertainty Quantification: Theory and Computation](https://ww3.aievolution.com/JSMAnnual2024/index.cfm?do=ev.viewEv&ev=2139) at 2024 JSM
 * **[June 2024]** The paper "Active learning for a recursive non-additive emulator for multi-fidelity computer experiments" has been accepted by [Technometrics](https://doi.org/10.1080/00401706.2024.2376173).
