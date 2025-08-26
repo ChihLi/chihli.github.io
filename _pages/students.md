@@ -57,6 +57,6 @@ Master Students
 Undergraduate Students
 ======
 
-* Chungmin Lee (*Yonsei University*, 2024-present)
-* Aditya Pendyala (*MSU*, 2024-present)
+* Chungmin Lee (*Yonsei University*, 2024-2025)
+* Aditya Pendyala (*MSU*, 2024-2025)
 * Noah Jankowski (*MSU*, 2021-2022)
