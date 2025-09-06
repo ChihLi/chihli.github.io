@@ -10,6 +10,8 @@ redirect_from:
 
 R Packages
 ======
+* [MuFiMeshGP](https://cran.r-project.org/web/packages/MuFiMeshGP/index.html): Multi-fidelity emulator for computer experiments with tunable fidelity levels
+![](https://cranlogs.r-pkg.org/badges/grand-total/MuFiMeshGP)
 * [DNAmf](https://cran.r-project.org/web/packages/DNAmf/index.html): Diffusion non-additive model with tunable precision
 ![](https://cranlogs.r-pkg.org/badges/grand-total/DNAmf)
 * [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html): Recursive non-additive emulator for multi-fidelity data
