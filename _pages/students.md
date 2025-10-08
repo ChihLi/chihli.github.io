@@ -44,10 +44,8 @@ Master Students
 
 * Haojun Yang  (*MSU*, 2021-2022)
 * [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (*MSU*, 2021-2022)  
-*Current position*: Ph.D. student at MSU
 * Kun Xia (*MSU*, 2021-2022)
 * [Ashton Pallottini](https://www.ashtonpallottini.com/) (*MSU*, 2019-2020)  
-*Current position*: Ph.D. student at U. of Chicago
 * Jinwon Park (*MSU*, 2019-2020)
 * Wei Chen (*Florida Tech*, 2020-2021)
     Primary advisor: Prof. [Xingjian Wang](https://www.depe.tsinghua.edu.cn/depeen/info/1297/1261.htm)
