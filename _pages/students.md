@@ -28,6 +28,8 @@ PhD students
 
 * [Wei-Ann Lin](https://weiannlin.github.io/) (2019 -  2025) 
     Primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home)
+	
+	[Current Position] Assistant Professor in the Department of Mathematics at [National Central University](https://w2.math.ncu.edu.tw/), Taiwan
 
 ### MSU [IMPACTS](https://impacts.natsci.msu.edu/) Trainees
 
