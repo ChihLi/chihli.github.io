@@ -26,7 +26,7 @@ PhD students
 
 ### National Cheng Kung University
 
-* Wei-Ann Lin (2019 -  2025) 
+* [Wei-Ann Lin](https://weiannlin.github.io/) (2019 -  2025) 
     Primary advisor: Prof. [Ray-Bing Chen](https://sites.google.com/view/ray-bingchenswebsite/home)
 
 ### MSU [IMPACTS](https://impacts.natsci.msu.edu/) Trainees
