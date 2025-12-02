@@ -12,6 +12,7 @@ PhD students
 ======
 
 ### Michigan State University
+* [Samana Sabri Murshed](https://directory.natsci.msu.edu/Directory/Profiles/Person/103854) (2025 -  present)
 * [Andrews Boahen](https://directory.natsci.msu.edu/Directory/Profiles/Person/102513) (2024 -  present)
 * [Romain Boutelet](https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188) (2023 -  present) Co-supervised with Prof. [Andrew O. Finley](https://www.finley-lab.com/)
 * [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) (2022 -  present)
