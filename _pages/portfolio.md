@@ -26,7 +26,8 @@ My research focus is to tackle these challenges by providing modern, efficient s
 Highlighted Research Contributions
 ======
 
-### Multi-Fidelity or Single-Fidelity?
+{% capture mf %}
+**Multi-Fidelity or Single-Fidelity?**  
  
 In many scientific applications, researchers combine expensive high-accuracy simulations 
 with cheaper low-accuracy ones. But is multi-fidelity modeling always better than 
@@ -37,10 +38,11 @@ In [this work](https://epubs.siam.org/doi/full/10.1137/22M1532007), we provide a
 when multi-fidelity emulation truly improves prediction accuracy — and when it does not. 
 Our results reveal that blindly adding low-fidelity data can sometimes hurt performance. 
 This work provides practical guidance for designing computer experiments efficiently.
+{% endcapture %}
+<div class="notice--primary">{{ mf | markdownify }}</div>
 
-
-
-### Beyond Linear Relationships in Multi-Fidelity Modeling
+{% capture rna %}
+**Beyond Linear Relationships in Multi-Fidelity Modeling**  
 
 Traditional multi-fidelity models assume a simple linear relationship between 
 low- and high-fidelity simulations. But real-world systems are rarely that simple.
@@ -52,9 +54,10 @@ dependence across fidelities. This significantly improves predictive accuracy in
 complex engineering and scientific applications.
 
 
-An open-source implementation is available in our 
-[R package](https://cran.r-project.org/web/packages/RNAmf/index.html).
+Open-source implementation: [RNAmf (CRAN)](https://cran.r-project.org/web/packages/RNAmf/index.html).
 
+{% endcapture %}
+<div class="notice--info">{{ rna | markdownify }}</div>
 
 Grants
 ======
