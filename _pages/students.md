@@ -14,36 +14,66 @@ PhD students
 ### Michigan State University
 
 <style>
+.student-section {
+  background-color: #F4F8F6;
+  padding: 30px 20px;
+  border-radius: 10px;
+}
+
 .student-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 30px;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 35px;
   text-align: center;
-  margin-top: 20px;
 }
+
+.student-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.student-card:hover {
+  transform: translateY(-4px);
+}
+
 .student-card img {
-  width: 160px;
-  height: 200px;
+  width: 170px;
+  height: 210px;
   object-fit: cover;
   border-radius: 8px;
 }
+
 .student-card a {
   text-decoration: none;
   font-weight: 600;
+  font-size: 1.05em;
+  color: #18453B; /* Spartan Green */
   display: block;
-  margin-top: 10px;
+  margin-top: 12px;
 }
+
+.student-card a:hover {
+  color: #2E6F5E;
+}
+
 .student-info {
   font-size: 0.9em;
-  margin-top: 6px;
-  line-height: 1.4;
+  margin-top: 8px;
+  line-height: 1.5;
+  color: #444;
 }
+
 .position {
   font-style: italic;
+  color: #18453B;
 }
 </style>
 
 <div class="student-grid">
+
 
 <div class="student-card">
   <img src="/images/samana.jpg" alt="Samana Sabri Murshed">
