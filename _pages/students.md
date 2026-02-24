@@ -60,8 +60,7 @@ PhD students
 <div class="student-card">
   <img src="/images/romain.jpg" alt="Romain Boutelet">
   <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188">Romain Boutelet</a>
-  <div class="student-info">2023 – present<br>
-  Co-supervised with <a href="https://www.finley-lab.com/">Prof. Andrew O. Finley</a></div>
+  <div class="student-info">2023 – present</div>
 </div>
 
 <div class="student-card">
