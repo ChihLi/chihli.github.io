@@ -22,6 +22,40 @@ Computer model simulations have become increasingly important for studying compl
 My research focus is to tackle these challenges by providing modern, efficient statistical approaches.
 
 
+
+Highlighted Research Contributions
+======
+
+### Multi-Fidelity or Single-Fidelity?
+ 
+In many scientific applications, researchers combine expensive high-accuracy simulations 
+with cheaper low-accuracy ones. But is multi-fidelity modeling always better than 
+using a single high-fidelity simulator?
+
+
+In [this work](https://epubs.siam.org/doi/full/10.1137/22M1532007), we provide a theoretical understanding of 
+when multi-fidelity emulation truly improves prediction accuracy — and when it does not. 
+Our results reveal that blindly adding low-fidelity data can sometimes hurt performance. 
+This work provides practical guidance for designing computer experiments efficiently.
+
+
+
+### Beyond Linear Relationships in Multi-Fidelity Modeling
+
+Traditional multi-fidelity models assume a simple linear relationship between 
+low- and high-fidelity simulations. But real-world systems are rarely that simple.
+
+
+In [this work](https://doi.org/10.1080/00401706.2024.2320211), we introduce the 
+<strong>RNA (Recursive Non-Additive) model</strong>, which allows flexible nonlinear 
+dependence across fidelities. This significantly improves predictive accuracy in 
+complex engineering and scientific applications.
+
+
+An open-source implementation is available in our 
+[R package](https://cran.r-project.org/web/packages/RNAmf/index.html).
+
+
 Grants
 ======
 * [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018): 2024-2029 (PI, $423,591) *CAREER: Single-Fidelity vs. Multi-Fidelity Computer Experiments: Unveiling the Effectiveness of Multi-Fidelity Emulation*
