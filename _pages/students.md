@@ -35,7 +35,11 @@ PhD students
 }
 .student-info {
   font-size: 0.9em;
-  margin-top: 5px;
+  margin-top: 6px;
+  line-height: 1.4;
+}
+.position {
+  font-style: italic;
 }
 </style>
 
@@ -67,7 +71,7 @@ PhD students
 </div>
 
 <div class="student-card">
-  <img src="/images/junoh.jpg" alt="Junoh Heo">
+  <img src="/images/junoh.jpeg" alt="Junoh Heo">
   <a href="https://heojunoh.github.io/">Junoh Heo</a>
   <div class="student-info">2021 – present</div>
 </div>
