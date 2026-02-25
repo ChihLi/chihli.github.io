@@ -92,6 +92,24 @@ Sung, C.-L., Barber, B. D., & Walker, B. J. (2022). *SIAM/ASA J. Uncertainty Qua
 {% endcapture %}
 <div class="notice--success">{{ calib | markdownify }}</div>
 
+
+{% capture les %}
+
+**Designing the Next Generation Rocket Injector with Physics-Informed Surrogates**
+
+High-fidelity simulations for advanced propulsion systems can generate hundreds of gigabytes of data, making design exploration computationally prohibitive.
+
+In [this work](https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1409123) (Mak, Sung, et al, 2018), we develop a physics-informed surrogate model for turbulent flows in rocket swirl injectors. By embedding known fluid dynamics principles into the statistical framework, the method delivers accurate prediction and uncertainty quantification in roughly an hour — dramatically accelerating design cycles.
+
+Beyond fast emulation, the model captures coupling between flow variables, enabling both reduced uncertainty and extraction of meaningful flow physics to guide next-generation injector development.
+
+<span style="font-size: 0.82em; color: #6b6b6b;">
+Mak, S., Sung, C.-L., Wang, X., Yeh, S.-T., Chang, Y.-H., Joseph, V. R., Yang, V., & Wu, C. F. J. (2018) *Journal of the American Statistical Association*, 113(524):1443-1456.
+</span>
+
+{% endcapture %}
+<div class="notice--info">{{ les | markdownify }}</div>
+
 Grants
 ======
 * [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018): 2024-2029 (PI, $423,591) *CAREER: Single-Fidelity vs. Multi-Fidelity Computer Experiments: Unveiling the Effectiveness of Multi-Fidelity Emulation*
