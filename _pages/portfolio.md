@@ -27,7 +27,8 @@ Highlighted Research Contributions
 ======
 
 {% capture mf %}
-**Multi-Fidelity or Single-Fidelity?**  
+**Multi-Fidelity or Single-Fidelity?**
+
 In many scientific applications, researchers combine expensive high-accuracy simulations with cheaper low-accuracy ones. But is multi-fidelity modeling always better than using a single high-fidelity simulator?
 
 In [this work](https://epubs.siam.org/doi/full/10.1137/22M1532007) (Sung et al., 2024), we provide a theoretical understanding of when multi-fidelity emulation improves prediction accuracy — and when it does not. We show that blindly adding low-fidelity data can sometimes hurt performance, and we give guidance for designing computer experiments efficiently.
@@ -39,7 +40,8 @@ Sung, C.-L., Ji, Y., Mak, S., Wang, W., & Tang, T. (2024). *SIAM/ASA J. Uncertai
 <div class="notice--success">{{ mf | markdownify }}</div>
 
 {% capture rna %}
-**Beyond Linear Relationships in Multi-Fidelity Modeling**  
+**Beyond Linear Relationships in Multi-Fidelity Modeling**
+
 Traditional multi-fidelity models assume a simple linear relationship between low- and high-fidelity simulations. But real-world systems are rarely that simple.
 
 In [this work](https://doi.org/10.1080/00401706.2024.2320211) (Heo and Sung, 2025), we introduce the **RNA (Recursive Non-Additive) model**, allowing flexible nonlinear dependence across fidelities while retaining **closed-form expressions for the posterior mean and variance**. This preserves the analytical tractability of Gaussian processes and improves predictive accuracy in complex applications.
@@ -53,7 +55,8 @@ Heo, J., and Sung, C.-L. (2025). *Technometrics*, 67(1), 58-72.
 <div class="notice--info">{{ rna | markdownify }}</div>
 
 {% capture figp %}
-**Regression with Functional Inputs: When the Input is a Curve**  
+**Regression with Functional Inputs: When the Input is a Curve**
+
 In many scientific problems — they can be entire functions. 
 For example, instead of a scalar parameter, the input might be a curve such as 
 $\sin(x)$, $\cos(x)$, or a spatial profile describing material properties.
