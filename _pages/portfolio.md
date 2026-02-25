@@ -52,10 +52,9 @@ Heo, J., and Sung, C.-L. (2025). *Technometrics*, 67(1), 58-72.
 {% endcapture %}
 <div class="notice--info">{{ rna | markdownify }}</div>
 
-{% capture rna %}
-**Regression with Functional Inputs: When the Input is a Curve**
-
-In many scientific problems, inputs are not just numbers — they can be entire functions. 
+{% capture figp %}
+**Regression with Functional Inputs: When the Input is a Curve**  
+In many scientific problems — they can be entire functions. 
 For example, instead of a scalar parameter, the input might be a curve such as 
 $\sin(x)$, $\cos(x)$, or a spatial profile describing material properties.
 
@@ -69,7 +68,7 @@ Open-source implementation: [Reproducibility (GitHub)](https://github.com/ChihLi
 Sung, C.-L., Wang, W., Cakoni, F., Harris, I., & Hung, Y. (2024). *Statistica Sinica*, 34(4), 1883-1902.
 </span>
 {% endcapture %}
-<div class="notice--warning">{{ rna | markdownify }}</div>
+<div class="notice--warning">{{ figp | markdownify }}</div>
 
 
 Grants
