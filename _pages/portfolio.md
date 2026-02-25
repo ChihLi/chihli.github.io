@@ -44,7 +44,7 @@ Sung, C.-L., Ji, Y., Mak, S., Wang, W., & Tang, T. (2024). *SIAM/ASA J. Uncertai
 
 Traditional multi-fidelity models assume a simple linear relationship between low- and high-fidelity simulations. But real-world systems are rarely that simple.
 
-In [this work](https://doi.org/10.1080/00401706.2024.2320211) (Heo and Sung, 2025), we introduce the **RNA (Recursive Non-Additive) model**, allowing flexible nonlinear dependence across fidelities while retaining **closed-form expressions for the posterior mean and variance**. This preserves the analytical tractability of Gaussian processes and improves predictive accuracy in complex applications.
+In [this work](https://doi.org/10.1080/00401706.2024.2320211) (Heo and Sung, 2025), we introduce the RNA (Recursive Non-Additive) model, allowing flexible nonlinear dependence across fidelities while retaining closed-form expressions for the posterior mean and variance. This preserves the analytical tractability of Gaussian processes and improves predictive accuracy in complex applications.
 
 Open-source implementation: [RNAmf (CRAN)](https://cran.r-project.org/web/packages/RNAmf/index.html).
 
@@ -73,6 +73,24 @@ Sung, C.-L., Wang, W., Cakoni, F., Harris, I., & Hung, Y. (2024). *Statistica Si
 {% endcapture %}
 <div class="notice--warning">{{ figp | markdownify }}</div>
 
+
+{% capture calib %}
+
+**Calibration with Heteroscedastic Measurement Errors**
+
+Computer models are widely used to represent real systems, but they often involve unknown parameters that must be estimated from experimental data. Most calibration methods assume that measurement errors have constant variance — an assumption that is frequently violated in practice.
+
+In [this work](https://epubs.siam.org/doi/10.1137/21M1417946) (Sung et al, 2022), we develop a new calibration framework for inexact computer models under **heteroscedastic measurement errors** (i.e., non-constant variance). We derive asymptotic properties of the parameter estimators to quantify uncertainty and propose a goodness-of-fit test to detect heteroscedasticity.
+
+Open-source implementation: [HetCalibrate (GitHub)](https://github.com/ChihLi/HetCalibrate).
+
+
+<span style="font-size: 0.82em; color: #6b6b6b;">
+Sung, C.-L., Barber, B. D., & Walker, B. J. (2022). *SIAM/ASA J. Uncertainty Quantification*, 10(4), 1733-1752.
+</span>
+
+{% endcapture %}
+<div class="notice--success">{{ calib | markdownify }}</div>
 
 Grants
 ======
