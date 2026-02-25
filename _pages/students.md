@@ -74,7 +74,11 @@ PhD students
 
 <div class="student-grid">
 
-
+<div class="student-card">
+  <img src="/images/buddhini.jpg" alt="Herath Mudiyanselage Buddhini Achintha Buddhini">
+  <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/103961?org=2&group=188">Herath Mudiyanselage Buddhini Achintha Buddhini</a>
+  <div class="student-info">2026 – present</div>
+</div>
 
 
 <div class="student-card">
