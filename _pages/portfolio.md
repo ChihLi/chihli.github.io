@@ -36,7 +36,7 @@ In [this work](https://epubs.siam.org/doi/full/10.1137/22M1532007) (Sung et al.,
 Sung, C.-L., Ji, Y., Mak, S., Wang, W., & Tang, T. (2024). *SIAM/ASA J. Uncertainty Quantification*, 12(1), 157–181.
 </span>
 {% endcapture %}
-<div class="notice--primary">{{ mf | markdownify }}</div>
+<div class="notice--success">{{ mf | markdownify }}</div>
 
 {% capture rna %}
 **Beyond Linear Relationships in Multi-Fidelity Modeling**  
