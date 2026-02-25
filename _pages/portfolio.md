@@ -54,6 +54,7 @@ Heo, J., and Sung, C.-L. (2025). *Technometrics*, 67(1), 58-72.
 
 {% capture rna %}
 **Regression with Functional Inputs: When the Input is a Curve**
+
 In many scientific problems, inputs are not just numbers — they can be entire functions. 
 For example, instead of a scalar parameter, the input might be a curve such as 
 $\sin(x)$, $\cos(x)$, or a spatial profile describing material properties.
