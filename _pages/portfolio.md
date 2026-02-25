@@ -42,7 +42,7 @@ Sung, C.-L., Ji, Y., Mak, S., Wang, W., & Tang, T. (2024). *SIAM/ASA J. Uncertai
 **Beyond Linear Relationships in Multi-Fidelity Modeling**  
 Traditional multi-fidelity models assume a simple linear relationship between low- and high-fidelity simulations. But real-world systems are rarely that simple.
 
-In [this work](https://doi.org/10.1080/00401706.2024.2320211) (Heo and Sung, 2025), we introduce the **RNA (Recursive Non-Additive) model**, allowing flexible nonlinear dependence across fidelities and improving predictive accuracy in complex applications.
+In [this work](https://doi.org/10.1080/00401706.2024.2320211) (Heo and Sung, 2025), we introduce the **RNA (Recursive Non-Additive) model**, allowing flexible nonlinear dependence across fidelities while retaining **closed-form expressions for the posterior mean and variance**. This preserves the analytical tractability of Gaussian processes and improves predictive accuracy in complex applications.
 
 Open-source implementation: [RNAmf (CRAN)](https://cran.r-project.org/web/packages/RNAmf/index.html).
 
@@ -79,4 +79,4 @@ Grants
 
 <img src='/images/MSUNSF.png' width="240" height="120" style="float:left">
 
-
+<div style="clear: both;"></div>
