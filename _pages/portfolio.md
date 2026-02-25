@@ -32,7 +32,9 @@ In many scientific applications, researchers combine expensive high-accuracy sim
 
 In [this work](https://epubs.siam.org/doi/full/10.1137/22M1532007) (Sung et al., 2024), we provide a theoretical understanding of when multi-fidelity emulation improves prediction accuracy — and when it does not. We show that blindly adding low-fidelity data can sometimes hurt performance, and we give guidance for designing computer experiments efficiently.
 
-**Reference**: Sung, C.-L., Ji, Y., Mak, S., Wang, W., and Tang, T. (2024). Stacking designs: Designing multifidelity computer experiments with target predictive accuracy. *SIAM/ASA Journal on Uncertainty Quantification*, 12(1), 157-181.
+<span style="font-size: 0.8em; color: #777;">
+Reference: Sung, C.-L., Ji, Y., Mak, S., Wang, W., and Tang, T. (2024). *SIAM/ASA Journal on Uncertainty Quantification*, 12(1), 157-181.
+</span>
 {% endcapture %}
 <div class="notice--primary">{{ mf | markdownify }}</div>
 
@@ -44,7 +46,9 @@ In [this work](https://doi.org/10.1080/00401706.2024.2320211) (Heo and Sung, 202
 
 Open-source implementation: [RNAmf (CRAN)](https://cran.r-project.org/web/packages/RNAmf/index.html).
 
-**Reference**: Heo, J., and Sung, C.-L. (2025). Active learning for a recursive non-additive emulator for multi-fidelity computer experiments. *Technometrics*, 67(1), 58-72.
+<span style="font-size: 0.8em; color: #777;">
+Reference: Heo, J., and Sung, C.-L. (2025). *S Technometrics*, 67(1), 58-72.
+</span>
 {% endcapture %}
 <div class="notice--info">{{ rna | markdownify }}</div>
 
