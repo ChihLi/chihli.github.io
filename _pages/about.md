@@ -15,10 +15,10 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
-
+* 🎤 **[March 2026]** My Ph.D. students **Andrews Boahen** and **Junoh Heo** will present our latest research at the *SIAM Conference on Uncertainty Quantification* in Minnesota (March 22–25, 2026). Session details: [MS5 Sun PM](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=85970) and [MS96 Mon PM](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87139).
 * 🎉 I’m honored to share that I have been promoted to **Associate Professor** in the Department of Statistics and Probability at Michigan State University.
 * 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx). 
-* 🎤 **[March 2026]** My Ph.D. students **Andrews Boahen** and **Junoh Heo** will present our latest research at the *SIAM Conference on Uncertainty Quantification* in Minnesota (March 22–25, 2026). Session details: [MS5 Sun PM](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=85970) and [MS96 Mon PM](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87139).
+
 
 
 Special thanks to MSU and NSF for their support.
