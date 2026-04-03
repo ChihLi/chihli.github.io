@@ -89,7 +89,7 @@ PhD students
 
 <div class="student-card">
   <img src="/images/andrews.jpg" alt="Andrews Boahen">
-  <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/102513">Andrews Boahen</a>
+  <a href="https://andrewsboahen.github.io/">Andrews Boahen</a>
   <div class="student-info">2024 – present</div>
 </div>
 
