@@ -16,6 +16,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 News 
 ------
 * 🎓 **[April 2026]** Congratulations to my Ph.D. student **Junoh Heo** on successfully defending his dissertation! He will begin his tenure-track Assistant Professor position in the [Department of Statistical Sciences at Wake Forest University](https://stats.wfu.edu/) in July 2026.
+* 📊 **[April 2026]** Our paper *["A review on computer model calibration"](https://doi.org/10.1002/wics.1645)* (*WIREs Computational Statistics*) has been recognized as one of the [top 10 most-cited papers of 2024](https://chihli.github.io/files/WIRES_top10_certificate.pdf) in the journal.
 * 🎤 **[March 2026]** My Ph.D. students **Andrews Boahen** and **Junoh Heo** will present our latest research at the *SIAM Conference on Uncertainty Quantification* in Minnesota (March 22–25, 2026). Session details: [MS5 Sun PM](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=85970) and [MS96 Mon PM](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87139).
 * 🎉 I’m honored to share that I have been promoted to **Associate Professor** in the Department of Statistics and Probability at Michigan State University.
 * 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx). 
