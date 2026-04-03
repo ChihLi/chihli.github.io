@@ -108,7 +108,7 @@ PhD students
 <div class="student-card">
   <img src="/images/junoh.jpeg" alt="Junoh Heo">
   <a href="https://heojunoh.github.io/">Junoh Heo</a>
-  <div class="student-info">2021 – present</div>
+  <div class="student-info">2021 – 2026</div>
 </div>
 
 </div>
