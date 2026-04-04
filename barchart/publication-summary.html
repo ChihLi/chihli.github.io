@@ -6,14 +6,14 @@
 <style>
   .chart-container {
     display: flex;
-    justify-content: space-between;
-    width: 600px;
+    gap: 20px;
+    width: 100%;
   }
-  
-  .chart-container canvas {
-    width: calc(50% - 10px); /* Adjust the width as needed */
-    margin-right: 30px; /* Adjust the margin as needed */
-  }
+
+.chart-container canvas {
+  width: 50% !important;
+  height: auto !important;
+}
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
