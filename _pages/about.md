@@ -11,7 +11,7 @@ Chih-Li Sung (pronounced CHI LEE SUNG) is an Associate Professor in the [Departm
 
 He was awarded [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018) in 2024, and awarded [Statistics in Physical Engineering Sciences (SPES) Award](https://www.amstat.org/your-career/awards/statistics-in-physical-engineering-sciences-award) from ASA in 2019. He is currently an associate editor for [Technometrics](https://www.tandfonline.com/toc/utch20/current) and [The New England Journal of Statistics in Data Science](https://journal.nestat.org/section_pages/engineering_science). 
 
-Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engineering at Georgia Tech in 2018. He was jointly advised by Profs. [C. F. Jeff Wu](https://www2.isye.gatech.edu/~jeffwu/) and [Benjamin Haaland](https://medicine.utah.edu/faculty/mddetail/u6012617). He also received a B.S in applied mathematics and an M.S. in statistics from National Tsing Hua University in 2008 and 2010, respectively. 
+Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engineering at Georgia Tech in 2018. He was jointly advised by Profs. [C. F. Jeff Wu](https://www2.isye.gatech.edu/~jeffwu/) and [Benjamin Haaland](https://medicine.utah.edu/faculty/mddetail/u6012617). He also received a B.S in applied mathematics and an M.S. in statistics from National Tsing Hua University, Taiwan, in 2008 and 2010, respectively. 
 
 News 
 ------
