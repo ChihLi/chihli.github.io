@@ -26,8 +26,8 @@ Publications
 <iframe 
   src="/barchart/publication-summary.html"
   width="100%"
-  height="420"
-  style="border:none;">
+  height="360"
+  style="border:none; display:block;">
 </iframe>
 
 <p><span style="color: green;">color</span> indicates supervised student</p>
