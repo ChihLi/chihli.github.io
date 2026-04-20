@@ -12,7 +12,12 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 24px;
-    margin: 20px 0 30px 0;
+  }
+
+  @media (max-width: 900px) {
+    .chart-grid {
+      grid-template-columns: 1fr;
+    }
   }
 
   .chart-card {
