@@ -23,7 +23,12 @@ Publications
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<iframe src="/barchart/publication-summary.html" height="300" width="850" style="border:none;"></iframe>
+<iframe 
+  src="/barchart/publication-summary.html"
+  width="100%"
+  height="420"
+  style="border:none;">
+</iframe>
 
 <p><span style="color: green;">color</span> indicates supervised student</p>
 
