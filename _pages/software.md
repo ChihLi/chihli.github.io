@@ -9,38 +9,230 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.software-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 18px;
+  margin-top: 15px;
+}
+
+.software-card {
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+
+.software-card a {
+  font-weight: 700;
+  color: #18453B;
+  text-decoration: none;
+}
+
+.software-card p {
+  font-size: 0.9em;
+  margin: 8px 0 10px 0;
+  line-height: 1.45;
+}
+
+.repro-list {
+  margin-top: 12px;
+}
+
+.repro-item {
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+
+.repro-title a {
+  font-weight: 600;
+  color: #18453B;
+  text-decoration: none;
+}
+
+.repro-meta {
+  font-size: 0.85em;
+  color: #666;
+}
+</style>
+
 R Packages
 ======
-* [MuFiMeshGP](https://cran.r-project.org/web/packages/MuFiMeshGP/index.html): Multi-fidelity emulator for computer experiments with tunable fidelity levels
-![](https://cranlogs.r-pkg.org/badges/grand-total/MuFiMeshGP)
-* [DNAmf](https://cran.r-project.org/web/packages/DNAmf/index.html): Diffusion non-additive model with tunable precision
-![](https://cranlogs.r-pkg.org/badges/grand-total/DNAmf)
-* [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html): Recursive non-additive emulator for multi-fidelity data
-![](https://cranlogs.r-pkg.org/badges/grand-total/RNAmf)
-* [mcGP](https://github.com/ChihLi/mcGP): Perform the mesh-clustered Gaussian process emulator for partial differential equation boundary value problems
-* [GPcluster](https://github.com/ChihLi/GPcluster): Perform the clustered Gaussian process model proposed by Sung et al. (2023) Statistica Sinica
-* [HetCalibrate](https://github.com/ChihLi/HetCalibrate): Calibration parameter estimation for inexact computer models with heteroscedastic errors
-* [calibrateBinary](https://cran.r-project.org/web/packages/calibrateBinary/index.html): Calibration for computer experiments with binary responses
-![](https://cranlogs.r-pkg.org/badges/grand-total/calibrateBinary)
-* [binaryGP](https://cran.r-project.org/web/packages/binaryGP/index.html): Fit and predict a Gaussian process model with (time-series) binary response
-![](https://cranlogs.r-pkg.org/badges/grand-total/binaryGP)
-* [MRFA](https://cran.r-project.org/web/packages/MRFA/index.html): Fitting and predicting large-scale nonlinear regression problems using multi-resolution functional ANOVA (MRFA) approach
-![](https://cranlogs.r-pkg.org/badges/grand-total/MRFA)
+
+The following packages implement methods developed in our research on Gaussian process modeling, computer experiments, calibration, and multi-fidelity emulation.
+
+<div class="software-grid">
+
+<div class="software-card">
+<a href="https://cran.r-project.org/web/packages/MuFiMeshGP/index.html">MuFiMeshGP</a>
+<p>Multi-fidelity emulator for computer experiments with tunable fidelity levels.</p>
+<img src="https://cranlogs.r-pkg.org/badges/grand-total/MuFiMeshGP">
+</div>
+
+<div class="software-card">
+<a href="https://cran.r-project.org/web/packages/DNAmf/index.html">DNAmf</a>
+<p>Diffusion non-additive model with tunable precision.</p>
+<img src="https://cranlogs.r-pkg.org/badges/grand-total/DNAmf">
+</div>
+
+<div class="software-card">
+<a href="https://cran.r-project.org/web/packages/RNAmf/index.html">RNAmf</a>
+<p>Recursive non-additive emulator for multi-fidelity data.</p>
+<img src="https://cranlogs.r-pkg.org/badges/grand-total/RNAmf">
+</div>
+
+<div class="software-card">
+<a href="https://github.com/ChihLi/mcGP">mcGP</a>
+<p>Mesh-clustered Gaussian process emulator for PDE boundary value problems.</p>
+</div>
+
+<div class="software-card">
+<a href="https://github.com/ChihLi/GPcluster">GPcluster</a>
+<p>Clustered Gaussian process modeling for computer experiments.</p>
+</div>
+
+<div class="software-card">
+<a href="https://github.com/ChihLi/HetCalibrate">HetCalibrate</a>
+<p>Calibration parameter estimation for inexact computer models with heteroscedastic errors.</p>
+</div>
+
+<div class="software-card">
+<a href="https://cran.r-project.org/web/packages/calibrateBinary/index.html">calibrateBinary</a>
+<p>Calibration for computer experiments with binary responses.</p>
+<img src="https://cranlogs.r-pkg.org/badges/grand-total/calibrateBinary">
+</div>
+
+<div class="software-card">
+<a href="https://cran.r-project.org/web/packages/binaryGP/index.html">binaryGP</a>
+<p>Gaussian process modeling for time-series binary responses.</p>
+<img src="https://cranlogs.r-pkg.org/badges/grand-total/binaryGP">
+</div>
+
+<div class="software-card">
+<a href="https://cran.r-project.org/web/packages/MRFA/index.html">MRFA</a>
+<p>Multi-resolution functional ANOVA for large-scale nonlinear regression.</p>
+<img src="https://cranlogs.r-pkg.org/badges/grand-total/MRFA">
+</div>
+
+</div>
 
 <br>
-  
 
-Reproducibility
+Research Code & Reproducibility
 ======
-* [Diffusion non-additive model for multi-fidelity simulations with tunable precision](https://github.com/heojunoh/DNAmf-Reproducibility) (2025+)
-* [Uncertainty-aware out-of-distribution detection with Gaussian processes](https://github.com/YangChencyy/Uncertainty-Aware-Out-of-Distribution-Detection-with-Gaussian-Processes) (2024+)
-* [Advancing inverse scattering with surrogate modeling and Bayesian inference for functional inputs](https://github.com/ChihLi/Bayes-Inverse-FIGP) (2025) *SIAM/ASA Journal on Uncertainty Quantification*, 13(2), 339-517.
-* [Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://github.com/heojunoh/RNAmf-Reproducibility) (2025) *Technometrics*, 67(1), 58-72.
-* [Category tree Gaussian process for computer experiments with many-category qualitative factors and application to cooling system design](https://github.com/sagalin14/ctGP) (2024) *Journal of Quality Technology*, 56(5), 391-408.
-* [Mesh-clustered Gaussian process emulator for partial differential equation boundary value problems](https://github.com/ChihLi/mcGP-Reproducibility) (2024) *Technometrics*, 66(3), 406-421.
-* [Stacking designs: designing multifidelity computer experiments with target predictive accuracy](https://github.com/ChihLi/StackingDesign-Reproducibility) (2024) *SIAM/ASA Journal on Uncertainty Quantification*, 12(1), 157-181.
-* [Efficient calibration for imperfect epidemic models with applications to the analysis of COVID-19](https://github.com/ChihLi/Epidemic-Models-Calibration) (2024) *Journal of the Royal Statistical Society: Series C*, 73(1), 47-64.
-* [Functional-input Gaussian processes with applications to inverse scattering problems](https://github.com/ChihLi/functional-input-GP) (2024) *Statistica Sinica*, 34(4), 1883-1902.
-* [Calibration of inexact computer models with heteroscedastic errors](https://github.com/ChihLi/HetCalibrate-Reproducibility) (2022). *SIAM/ASA Journal on Uncertainty Quantification*, 10(4), 1733-1752.
-* [Estimating functional parameters for understanding the impact of weather and government interventions on COVID-19 outbreak](https://github.com/ChihLi/Understanding-Impact-of-weather-and-intervention-on-COVID-19-AoAs) (2022). *Annals of Applied Statistics*, 16(4), 2505-2522.
-* [An efficient surrogate model for emulation and physics extraction of large eddy simulations](https://github.com/jasa-acs/An-efficient-surrogate-model-for-emulation-and-physics-extraction-of-large-eddy-simulations) (2018). *Journal of the American Statistical Association*, 113(524):1443-1456.
+
+Code repositories for reproducing results in our published work.
+
+<div class="repro-list">
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/heojunoh/DNAmf-Reproducibility">
+      Diffusion non-additive model for multi-fidelity simulations with tunable precision
+    </a>
+  </div>
+  <div class="repro-meta">2025+ • GitHub repository</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/YangChencyy/Uncertainty-Aware-Out-of-Distribution-Detection-with-Gaussian-Processes">
+      Uncertainty-aware out-of-distribution detection with Gaussian processes
+    </a>
+  </div>
+  <div class="repro-meta">2024+ • GitHub repository</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/ChihLi/Bayes-Inverse-FIGP">
+      Advancing inverse scattering with surrogate modeling and Bayesian inference for functional inputs
+    </a>
+  </div>
+  <div class="repro-meta">2025 • SIAM/ASA Journal on Uncertainty Quantification</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/heojunoh/RNAmf-Reproducibility">
+      Active learning for a recursive non-additive emulator for multi-fidelity computer experiments
+    </a>
+  </div>
+  <div class="repro-meta">2025 • Technometrics</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/sagalin14/ctGP">
+      Category tree Gaussian process for computer experiments with many-category qualitative factors
+    </a>
+  </div>
+  <div class="repro-meta">2024 • Journal of Quality Technology</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/ChihLi/mcGP-Reproducibility">
+      Mesh-clustered Gaussian process emulator for PDE boundary value problems
+    </a>
+  </div>
+  <div class="repro-meta">2024 • Technometrics</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/ChihLi/StackingDesign-Reproducibility">
+      Stacking designs: designing multifidelity computer experiments with target predictive accuracy
+    </a>
+  </div>
+  <div class="repro-meta">2024 • SIAM/ASA Journal on Uncertainty Quantification</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/ChihLi/Epidemic-Models-Calibration">
+      Efficient calibration for imperfect epidemic models with applications to COVID-19
+    </a>
+  </div>
+  <div class="repro-meta">2024 • Journal of the Royal Statistical Society: Series C</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/ChihLi/functional-input-GP">
+      Functional-input Gaussian processes with applications to inverse scattering problems
+    </a>
+  </div>
+  <div class="repro-meta">2024 • Statistica Sinica</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/ChihLi/HetCalibrate-Reproducibility">
+      Calibration of inexact computer models with heteroscedastic errors
+    </a>
+  </div>
+  <div class="repro-meta">2022 • SIAM/ASA Journal on Uncertainty Quantification</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/ChihLi/Understanding-Impact-of-weather-and-intervention-on-COVID-19-AoAs">
+      Estimating functional parameters for understanding the impact of weather and interventions on COVID-19
+    </a>
+  </div>
+  <div class="repro-meta">2022 • Annals of Applied Statistics</div>
+</div>
+
+<div class="repro-item">
+  <div class="repro-title">
+    <a href="https://github.com/jasa-acs/An-efficient-surrogate-model-for-emulation-and-physics-extraction-of-large-eddy-simulations">
+      An efficient surrogate model for emulation and physics extraction of large eddy simulations
+    </a>
+  </div>
+  <div class="repro-meta">2018 • Journal of the American Statistical Association</div>
+</div>
+
+</div>
