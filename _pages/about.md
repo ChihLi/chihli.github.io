@@ -15,6 +15,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
+* 🎉 **[April 2026]** Our paper *[Deep Intrinsic Coregionalization Multi-Output Gaussian Process Surrogate with Active Learning](https://arxiv.org/abs/2508.16434)* has been accepted in the *International Journal for Uncertainty Quantification (IJUQ)*. Great work by my Ph.D. student [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188).
 * 🏆 **[April 2026]** Congratulations to my Ph.D. student [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) on receiving the [NISS New Researcher Award](https://www.niss.org/news/niss-new-researcher-awardees-present-invited-talks-2026-spring-research-conference)! She will present an invited talk at the [2026 Spring Research Conference](https://sites.google.com/view/src2026/home?authuser=0).
 * 🎓 **[April 2026]** Congratulations to my Ph.D. student [Junoh Heo](https://heojunoh.github.io/) on successfully defending his dissertation! He will begin his tenure-track Assistant Professor position in the [Department of Statistical Sciences at Wake Forest University](https://stats.wfu.edu/) in July 2026.
 * 📊 **[April 2026]** Our paper *["A review on computer model calibration"](https://doi.org/10.1002/wics.1645)* (*WIREs Computational Statistics*) has been recognized as one of the [top 10 most-cited papers of 2024](https://chihli.github.io/files/WIRES_top10_certificate.pdf) in the journal.
