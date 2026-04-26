@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 <style>
+
+.page__title {
+  display: none;
+}
+
 .software-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
