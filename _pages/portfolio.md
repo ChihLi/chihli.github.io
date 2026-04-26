@@ -21,6 +21,10 @@ Computer model simulations have become increasingly important for studying compl
 
 My research focus is to tackle these challenges by providing modern, efficient statistical approaches.
 
+Grants
+======
+* [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018): 2024-2029 (PI, $423,591) *CAREER: Single-Fidelity vs. Multi-Fidelity Computer Experiments: Unveiling the Effectiveness of Multi-Fidelity Emulation*
+* [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false): 2021-2024 (PI, $142,009) *Collaborative Research: Efficient Bayesian Global Optimization with Applications to Deep Learning and Computer Experiments*
 
 
 Highlighted Research Contributions
@@ -110,10 +114,6 @@ Mak, S., Sung, C.-L., Wang, X., Yeh, S.-T., Chang, Y.-H., Joseph, V. R., Yang, V
 {% endcapture %}
 <div class="notice--info">{{ les | markdownify }}</div>
 
-Grants
-======
-* [NSF DMS 2338018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338018): 2024-2029 (PI, $423,591) *CAREER: Single-Fidelity vs. Multi-Fidelity Computer Experiments: Unveiling the Effectiveness of Multi-Fidelity Emulation*
-* [NSF DMS 2113407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113407&HistoricalAwards=false): 2021-2024 (PI, $142,009) *Collaborative Research: Efficient Bayesian Global Optimization with Applications to Deep Learning and Computer Experiments*
 
 <img src='/images/MSUNSF.png' width="240" height="120" style="float:left">
 
