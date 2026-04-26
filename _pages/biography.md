@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.page__title {
+  display: none;
+}
+</style>
+
+
 Work experience
 ======
 * Associate Professor (with tenure), Department of Statistics and Probability, [Michigan State University](https://stt.natsci.msu.edu/) (2025 -  present)
