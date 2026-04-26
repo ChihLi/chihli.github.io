@@ -13,6 +13,9 @@ redirect_from:
 }
 </style>
 
+About me
+======
+
 Chih-Li Sung (pronounced CHI LEE SUNG) is an Associate Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). His research interests include **computer experiment, uncertainty quantification, machine learning, and applications of statistics in engineering**. His research is partially supported by National Science Foundation (NSF).
 
 
