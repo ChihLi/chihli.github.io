@@ -1,11 +1,20 @@
 ---
 layout: archive
-title: Preprints
+title: Publications
 permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.page__title {
+  display: none;
+}
+</style>
+
 <p><span style="color: green;">color</span> indicates supervised student</p>
+
+Preprints
+======
 
 {% for post in site.submitted reversed %}
   {% include archive-single.html %}
