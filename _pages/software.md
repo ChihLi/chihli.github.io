@@ -91,16 +91,22 @@ The following packages implement methods developed in our research on Gaussian p
 <div class="software-card">
 <a href="https://github.com/ChihLi/mcGP">mcGP</a>
 <p>Mesh-clustered Gaussian process emulator for PDE boundary value problems.</p>
+<img src="https://img.shields.io/github/stars/ChihLi/mcGP?style=social">
+<img src="https://img.shields.io/github/last-commit/ChihLi/mcGP">
 </div>
 
 <div class="software-card">
 <a href="https://github.com/ChihLi/GPcluster">GPcluster</a>
 <p>Clustered Gaussian process modeling for computer experiments.</p>
+<img src="https://img.shields.io/github/stars/ChihLi/GPcluster?style=social">
+<img src="https://img.shields.io/github/last-commit/ChihLi/GPcluster">
 </div>
 
 <div class="software-card">
 <a href="https://github.com/ChihLi/HetCalibrate">HetCalibrate</a>
 <p>Calibration parameter estimation for inexact computer models with heteroscedastic errors.</p>
+<img src="https://img.shields.io/github/stars/ChihLi/HetCalibrate?style=social">
+<img src="https://img.shields.io/github/last-commit/ChihLi/HetCalibrate">
 </div>
 
 <div class="software-card">
