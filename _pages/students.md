@@ -70,6 +70,13 @@ PhD students
   font-style: italic;
   color: #18453B;
 }
+
+.award {
+  display: block;
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 3px;
+}
 </style>
 
 <div class="student-grid">
@@ -103,6 +110,7 @@ PhD students
   <img src="/images/chunyi.jpg" alt="Chun-Yi Chang">
   <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188">Chun-Yi Chang</a>
   <div class="student-info">2022 – present</div>
+  <span class="award">🏆 NISS New Researcher Award (2026) •  William L. Harkness Award for Outstanding Teaching (2024)</span>
 </div>
 
 <div class="student-card">
@@ -113,6 +121,7 @@ PhD students
     <span class="position">
       🎓 Assistant Professor, Wake Forest University (starting July 2026)
     </span>
+<span class="award">🏆 ASA SPES and Q&P Best Student Paper (2024) • AISC Outstanding Graduate Student Presentation (2024) • INFORMS QSR Best Student Paper (2023)</span>
   </div>
 </div>
 
