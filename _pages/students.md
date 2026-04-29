@@ -105,6 +105,7 @@ PhD students
   <img src="/images/romain.jpg" alt="Romain Boutelet">
   <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188">Romain Boutelet</a>
   <div class="student-info">2023 – present</div>
+<span class="award">🏆 MSU Dissertation Completion Fellowship (2026)</span>
 </div>
 
 <div class="student-card">
@@ -122,7 +123,7 @@ PhD students
     <span class="position">
       🎓 Assistant Professor, Wake Forest University (starting July 2026)
     </span>
-<span class="award">🏆 ASA SPES + Q&P Best Student Paper (2024) • AISC Outstanding Graduate Student Presentation (2024) • INFORMS QSR Best Student Paper (2023)</span>
+<span class="award">🏆 MSU Dissertation Completion Fellowship (2026) • MSU Outstanding Scholar Fellowship (2024) • ASA SPES + Q&P Best Student Paper (2024) • AISC Outstanding Graduate Student Presentation (2024) • INFORMS QSR Best Student Paper (2023)</span>
   </div>
 </div>
 
