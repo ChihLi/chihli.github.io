@@ -15,6 +15,11 @@ PhD students
 ### Michigan State University
 
 <style>
+
+.page__title {
+  display: none;
+}
+
 .student-section {
   background-color: #F4F8F6;
   padding: 30px 20px;
