@@ -78,6 +78,44 @@ PhD students
   color: #666;
   margin-top: 3px;
 }
+
+.photo-gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 25px;
+  max-width: 800px;
+  margin: 30px auto;
+}
+
+.photo-card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease;
+}
+
+.photo-card:hover {
+  transform: translateY(-4px);
+}
+
+.photo-card img {
+  width: 100%;
+  display: block;
+}
+
+.photo-caption {
+  padding: 10px 14px;
+  font-size: 0.9em;
+  color: #555;
+  text-align: center;
+}
+
+@media (min-width: 900px) {
+  .photo-gallery {
+    grid-template-columns: 1fr 1fr;
+  }
+}
 </style>
 
 <div class="student-grid">
@@ -130,20 +168,23 @@ PhD students
 </div>
 
 
-<figure style="margin-top: 30px;">
-  <img src='/images/student_pic.jpeg' style="display:block; margin: 0 auto; width: 70%; border-radius: 8px;">
-  <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
-    MSU Science Festival (April 2024).
-  </figcaption>
-</figure>
+<div class="photo-gallery">
 
-<figure style="margin-top: 25px;">
-  <img src='/images/junoh_graduation.jpeg' style="display:block; margin: 0 auto; width: 45%; border-radius: 8px;">
-  <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
-    Celebrating Junoh’s graduation (May 2026).
-  </figcaption>
-</figure>
+  <div class="photo-card">
+    <img src="/images/student_pic.jpeg">
+    <div class="photo-caption">
+      MSU Science Festival (April 2024)
+    </div>
+  </div>
 
+  <div class="photo-card">
+    <img src="/images/junoh_graduation.jpeg">
+    <div class="photo-caption">
+      Celebrating Junoh’s graduation (May 2026)
+    </div>
+  </div>
+
+</div>
 
 ### National Cheng Kung University
 
