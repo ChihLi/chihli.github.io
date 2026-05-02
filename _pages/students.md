@@ -130,10 +130,14 @@ PhD students
 </div>
 
 
-<figure>
-<img src='/images/student_pic.jpeg' width="500" height="387" style="margin: 0 auto; display: block;">
-<figcaption>Photo taken at the MSU Science Festival in April 2024. From left: Chun-Yi, me, Andrews, Romain, and Junoh.</figcaption>
-</figure>
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin-top:20px;">
+  <img src='/images/student_pic.jpeg' style="width:55%; border-radius:8px;">
+  <img src='/images/junoh_graduation.jpeg' style="width:30%; border-radius:8px;">
+</div>
+
+<p style="text-align:center; font-size:0.85em; color:#666;">
+Left: MSU Science Festival (2024). Right: Junoh’s graduation (May 2026).
+</p>
 
 
 ### National Cheng Kung University
