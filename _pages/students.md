@@ -116,11 +116,6 @@ PhD students
   text-align: center;
 }
 
-@media (min-width: 900px) {
-  .photo-gallery {
-    grid-template-columns: 1fr 1fr;
-  }
-}
 </style>
 
 <div class="student-grid">
