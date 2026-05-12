@@ -42,7 +42,7 @@ Editorial Services
 Professional Service & Leadership
 ======
 * Program Chair-Elect (2027), ASA [Section on Physical and Engineering Sciences](https://community.amstat.org/spes/home) (SPES) 
-* Conference Program Committee (2026), [ASA/IMS Spring Research Conference](https://sites.google.com/view/src2026)(SRC)
+* Conference Program Committee (2026), [ASA/IMS Spring Research Conference](https://sites.google.com/view/src2026) (SRC)
 * Workshop Organizer (2025), [UQ and Trustworthy AI Algorithms for Complex Systems and Social Good](https://www.imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uq-and-trustworthy-ai-algorithms-for-complex-systems-and-social-good/)
 
 
