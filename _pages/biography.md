@@ -48,11 +48,9 @@ Professional Service & Leadership
 
 Honors and Awards
 ======
-* 2024 — SPES + Q&P Best Student Paper Winner, ASA  
-  Student: [Junoh Heo](https://heojunoh.github.io/)
+* 2024 — SPES + Q&P Best Student Paper Winner, ASA  (Student: [Junoh Heo](https://heojunoh.github.io/))
 * 2024 — [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx), National Science Foundation
-* 2023 — [QSR Best Student Paper Winner](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop), INFORMS  
-  Student: [Junoh Heo](https://heojunoh.github.io/)
+* 2023 — [QSR Best Student Paper Winner](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop), INFORMS  (Student: [Junoh Heo](https://heojunoh.github.io/))
 * 2023 — [IMS New Researcher Travel Award](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/), Institute of Mathematical Statistics
 * 2021 — Full Membership in Sigma Xi, The Scientific Research Honor Society
 * 2019 — [Statistics in Physical Engineering Sciences (SPES) Award](https://www.amstat.org/your-career/awards/statistics-in-physical-engineering-sciences-award), American Statistical Association
