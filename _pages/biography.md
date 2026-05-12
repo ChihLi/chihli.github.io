@@ -13,33 +13,6 @@ redirect_from:
 .page__title {
   display: none;
 }
-
-.bio-intro {
-  font-size: 1.02em;
-  line-height: 1.7;
-  margin-bottom: 25px;
-}
-
-.highlight-box {
-  background: #F4F8F6;
-  border-left: 5px solid #18453B;
-  padding: 16px 18px;
-  border-radius: 8px;
-  margin-bottom: 30px;
-}
-
-.highlight-box strong {
-  color: #18453B;
-}
-
-.bio-section {
-  margin-bottom: 35px;
-}
-
-.bio-section ul li {
-  margin-bottom: 8px;
-  line-height: 1.5;
-}
 </style>
 
 
@@ -69,34 +42,24 @@ Editorial Services
 Professional Service & Leadership
 ======
 * Program Chair-Elect (2027), ASA [Section on Physical and Engineering Sciences](https://community.amstat.org/spes/home) (SPES) 
+* Conference Program Committee (2026), [ASA/IMS Spring Research Conference](https://sites.google.com/view/src2026)(SRC)
+* Workshop Organizer (2025), [UQ and Trustworthy AI Algorithms for Complex Systems and Social Good](https://www.imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uq-and-trustworthy-ai-algorithms-for-complex-systems-and-social-good/)
 
 
 Honors and Awards
 ======
 * 2024 — SPES + Q&P Best Student Paper Winner, ASA  
   Student: [Junoh Heo](https://heojunoh.github.io/)
-
 * 2024 — [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx), National Science Foundation
-
 * 2023 — [QSR Best Student Paper Winner](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop), INFORMS  
   Student: [Junoh Heo](https://heojunoh.github.io/)
-
 * 2023 — [IMS New Researcher Travel Award](https://imstat.org/2023/04/18/ims-announces-2023-recipients-of-the-new-researcher-travel-awards/), Institute of Mathematical Statistics
-
 * 2021 — Full Membership in Sigma Xi, The Scientific Research Honor Society
-
 * 2019 — [Statistics in Physical Engineering Sciences (SPES) Award](https://www.amstat.org/your-career/awards/statistics-in-physical-engineering-sciences-award), American Statistical Association
-
 * 2018 — [Alice and John Jarvis, Ph.D. Student Research Award](https://www.isye.gatech.edu/news/isye-presents-graduate-undergraduate-awards-outstanding-students-1), Honorable Mention, Georgia Tech ISyE
-
 * 2017 — Best Student Poster Winner, First Prize, Georgia Statistics Day, Emory University
-
 * 2017 — Best Student Poster Winner, ISBIS Meeting, IBM Watson Research Center
-
 * 2016 — Student Travel Award, Spring Research Conference on Statistics in Industry and Technology
-
 * 2016 — [Hacklytics 3rd Place](https://atdc.org/atdc-news/atdc-sponsored-hacklytics-competition-winners-named/), Data Science, Georgia Tech
-
 * 2010 — Dr. Chen Wen-Chen Statistics Science Thesis Research Award, Dr. Chen Wen-Chen Memorial Foundation
-
 * 2007 — Academic Achievement Award, National Tsing Hua University
