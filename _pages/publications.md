@@ -9,23 +9,7 @@ author_profile: true
 .page__title {
   display: none;
 }
-</style>
 
-
-
-<div class="keyword-container">
-  <span class="keyword">Computer Experiments</span>
-  <span class="keyword">Uncertainty Quantification</span>
-  <span class="keyword">Multi-Fidelity Modeling</span>
-  <span class="keyword">Gaussian Processes</span>
-  <span class="keyword">Bayesian Optimization</span>
-  <span class="keyword">Deep Gaussian Processes</span>
-  <span class="keyword">Digital Twins</span>
-  <span class="keyword">Computer Model Calibration</span>
-  <span class="keyword">Inverse Problems</span>
-</div>
-
-<style>
 .keyword-container {
   display: flex;
   flex-wrap: wrap;
@@ -76,6 +60,18 @@ Publications
   height="360"
   style="border:none; display:block;">
 </iframe>
+
+<div class="keyword-container">
+  <span class="keyword">Computer Experiments</span>
+  <span class="keyword">Uncertainty Quantification</span>
+  <span class="keyword">Multi-Fidelity Modeling</span>
+  <span class="keyword">Gaussian Processes</span>
+  <span class="keyword">Bayesian Optimization</span>
+  <span class="keyword">Deep Gaussian Processes</span>
+  <span class="keyword">Digital Twins</span>
+  <span class="keyword">Computer Model Calibration</span>
+  <span class="keyword">Inverse Problems</span>
+</div>
 
 <p><span style="color: green;">color</span> indicates supervised student</p>
 
