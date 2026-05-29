@@ -6,4 +6,7 @@ papertitle: Calibration for computer experiments with binary responses and appli
 author: 7. <b>Sung, C.-L.</b>, Hung, Y., Rittase, W., Zhu, C., and Wu, C. F. J. (2020)
 journal: <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1699419?journalCode=uasa20">Journal of the American Statistical Association</a>, 115(532), 1664-1674.
 link: 'https://arxiv.org/abs/1806.01453'
+keywords:
+  - Inverse Problems
+  - Computer Model Calibration
 ---

@@ -11,4 +11,7 @@ note: |
     🔗
   </a>
 link: 'https://arxiv.org/abs/1611.07911'
+keywords:
+  - Surrogate Modeling
+  - Gaussian Processes
 ---
