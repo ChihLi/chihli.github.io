@@ -6,4 +6,7 @@ journal: <a href="https://doi.org/10.1080/00401706.2024.2320211">Technometrics</
 link: 'https://arxiv.org/abs/2301.10387'
 rpackage: 'https://github.com/ChihLi/mcGP'
 github: 'https://github.com/ChihLi/mcGP-Reproducibility'
+keywords:
+  - Gaussian Processes
+  - Surrogate Modeling
 ---
