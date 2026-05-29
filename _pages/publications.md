@@ -76,8 +76,10 @@ Publications
   <button class="keyword-btn" data-filter="Deep Gaussian Processes">Deep Gaussian Processes</button>
   <button class="keyword-btn" data-filter="Surrogate Modeling">Surrogate Modeling</button>
   <button class="keyword-btn" data-filter="Computer Model Calibration">Computer Model Calibration</button>
+  <button class="keyword-btn" data-filter="Sensitivity Analysis">Sensitivity Analysis</button>
   <button class="keyword-btn" data-filter="OOD Detection">OOD Detection </button>
   <button class="keyword-btn" data-filter="Inverse Problems">Inverse Problems</button>
+  <button class="keyword-btn" data-filter="Plant Biology">Plant Biology</button>
 </div>
 
 <div class="filter-status" id="filter-status">
