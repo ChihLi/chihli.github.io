@@ -70,12 +70,11 @@ Publications
 
 <div class="keyword-container">
   <button class="keyword-btn active" data-filter="all">All</button>
-  <button class="keyword-btn" data-filter="Computer Experiments">Computer Experiments</button>
-  <button class="keyword-btn" data-filter="Uncertainty Quantification">Uncertainty Quantification</button>
+  <button class="keyword-btn" data-filter="Active Learning">Active Learning</button>
   <button class="keyword-btn" data-filter="Multi-Fidelity Modeling">Multi-Fidelity Modeling</button>
   <button class="keyword-btn" data-filter="Gaussian Processes">Gaussian Processes</button>
   <button class="keyword-btn" data-filter="Deep Gaussian Processes">Deep Gaussian Processes</button>
-  <button class="keyword-btn" data-filter="Surrogate Model">Surrogate Model</button>
+  <button class="keyword-btn" data-filter="Surrogate Modeling">Surrogate Modeling</button>
   <button class="keyword-btn" data-filter="Computer Model Calibration">Computer Model Calibration</button>
   <button class="keyword-btn" data-filter="OOD Detection">OOD Detection </button>
   <button class="keyword-btn" data-filter="Inverse Problems">Inverse Problems</button>

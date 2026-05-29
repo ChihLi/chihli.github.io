@@ -15,4 +15,10 @@ note: |
 news: 'https://stt.natsci.msu.edu/news/heo-wins-informs-2023-best-student-paper-competition.aspx'
 github: 'https://github.com/heojunoh/RNAmf-Reproducibility'
 slides: 'https://chihli.github.io/files/RNA_slides.pdf'
+keywords:
+  - Gaussian Processes
+  - Surrogate Modeling
+  - Multi-Fidelity Modeling
+  - Active Learning
+  - Deep Gaussian Processes
 ---

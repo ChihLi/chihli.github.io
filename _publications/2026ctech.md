@@ -7,6 +7,5 @@ link: 'https://arxiv.org/abs/2412.20918'
 github: 'https://github.com/YangChencyy/Uncertainty-Aware-Out-of-Distribution-Detection-with-Gaussian-Processes'
 keywords:
   - Gaussian Processes
-  - Uncertainty Quantification
   - OOD Detection
 ---
