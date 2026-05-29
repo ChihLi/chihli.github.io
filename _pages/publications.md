@@ -66,9 +66,7 @@ Publications
   <span class="keyword">Uncertainty Quantification</span>
   <span class="keyword">Multi-Fidelity Modeling</span>
   <span class="keyword">Gaussian Processes</span>
-  <span class="keyword">Bayesian Optimization</span>
   <span class="keyword">Deep Gaussian Processes</span>
-  <span class="keyword">Digital Twins</span>
   <span class="keyword">Computer Model Calibration</span>
   <span class="keyword">Inverse Problems</span>
 </div>
