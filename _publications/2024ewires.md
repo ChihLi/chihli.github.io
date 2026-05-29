@@ -8,4 +8,6 @@ note: |
   <a href="https://chihli.github.io/files/WIRES_top10_certificate.pdf">
     certificate
   </a>
+keywords:
+  - Computer Model Calibration
 ---
