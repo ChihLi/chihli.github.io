@@ -159,7 +159,7 @@ PhD students
   <div class="student-info">
     2021 – 2026<br>
     <span class="position">
-      🎓 Assistant Professor, Wake Forest University (starting July 2026)
+      🎓 Assistant Professor, Wake Forest University
     </span>
 <span class="award">🏆 MSU Dissertation Completion Fellowship (2026) • MSU Outstanding Scholar Fellowship (2024) • ASA SPES + Q&P Best Student Paper (2024) • AISC Outstanding Graduate Student Presentation (2024) • INFORMS QSR Best Student Paper (2023)</span>
   </div>
