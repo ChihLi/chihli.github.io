@@ -149,15 +149,6 @@ Code repositories for reproducing results in our published work.
 
 <div class="repro-item">
   <div class="repro-title">
-    <a href="https://github.com/YangChencyy/Uncertainty-Aware-Out-of-Distribution-Detection-with-Gaussian-Processes">
-      Uncertainty-aware out-of-distribution detection with Gaussian processes
-    </a>
-  </div>
-  <div class="repro-meta">2024+ • GitHub repository</div>
-</div>
-
-<div class="repro-item">
-  <div class="repro-title">
     <a href="https://github.com/ChihLi/Bayes-Inverse-FIGP">
       Advancing inverse scattering with surrogate modeling and Bayesian inference for functional inputs
     </a>
