@@ -72,7 +72,7 @@ The following packages implement methods developed in our research on Gaussian p
 
 <div class="software-card">
 <a href="https://cran.r-project.org/web/packages/MuFiMeshGP/index.html">MuFiMeshGP</a>
-<p>Multi-fidelity emulator for computer experiments with tunable fidelity levels.</p>
+<p>Multi-fidelity emulator and active learning for computer experiments with tunable fidelity levels.</p>
 <img src="https://cranlogs.r-pkg.org/badges/grand-total/MuFiMeshGP">
 </div>
 
