@@ -140,7 +140,7 @@ PhD students
 </div>
 
 <div class="student-card">
-  <img src="/images/romain.jpg" alt="Romain Boutelet">
+  <img src="/images/romain.jpg" alt="Romain Boutelet-Smith">
   <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188">Romain Boutelet</a>
   <div class="student-info">2023 – present</div>
 <span class="award">🏆 MSU Dissertation Completion Fellowship (2026)</span>
