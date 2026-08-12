@@ -148,7 +148,7 @@ PhD students
 
 <div class="student-card">
   <img src="/images/chunyi.jpg" alt="Chun-Yi Chang">
-  <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188">Chun-Yi Chang</a>
+  <a href="https://jennychang32.github.io">Chun-Yi Chang</a>
   <div class="student-info">2022 – present</div>
   <span class="award">🏆 NISS New Researcher Award (2026) •  MSU Dissertation Completion Fellowship (2026) •  Harkness Award for Outstanding Teaching (2024)</span>
 </div>

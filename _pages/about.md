@@ -25,6 +25,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
+* 🌐 Check out my Ph.D. student **Chun-Yi Chang**’s new webpage: [jennychang32.github.io](https://jennychang32.github.io).
 * 🎉 Our paper *Active Learning with Adaptive Non-Stationary Kernel for Continuous-Fidelity Surrogate Models* has been accepted for publication in [Technometrics](https://doi.org/10.1080/00401706.2026.2702433). Great work by my Ph.D. student [Romain Boutelet-Smith](https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188).
 * 🎉 Our paper *Uncertainty-Aware Out-of-Distribution Detection with Gaussian Processes* has been accepted for publication in [Technometrics](https://doi.org/10.1080/00401706.2026.2682179). I would especially like to thank my collaborator [Dr. Wenbo Sun](https://sites.google.com/a/umich.edu/wsun/home), who introduced me to the field of out-of-distribution (OOD) detection, for his guidance and collaboration throughout this project.
 * 🏛️ I am honored and grateful to have been elected Program Chair-Elect (2027) for the American Statistical Association (ASA)'s  [Section on Physical and Engineering Sciences](https://community.amstat.org/spes/home) (SPES).
@@ -33,7 +34,6 @@ News
 * 🏆 Congratulations to my Ph.D. student [Chun-Yi Chang](https://directory.natsci.msu.edu/Directory/Profiles/Person/102448?org=2&group=188) on receiving the [NISS New Researcher Award](https://www.niss.org/news/niss-new-researcher-awardees-present-invited-talks-2026-spring-research-conference)! She will present an invited talk at the [2026 Spring Research Conference](https://sites.google.com/view/src2026/home?authuser=0).
 * 🎓 Congratulations to my Ph.D. student [Junoh Heo](https://heojunoh.github.io/) on successfully defending his dissertation! He will begin his tenure-track Assistant Professor position in the Department of Statistical Sciences at [Wake Forest University](https://stats.wfu.edu/) in July 2026.
 * 📊 Our paper *["A review on computer model calibration"](https://doi.org/10.1002/wics.1645)* (*WIREs Computational Statistics*) has been recognized as one of the [top 10 most-cited and most-viewed papers of 2024](https://chihli.github.io/files/WIRES_top10_certificate.pdf) in the journal.
-* 🌐 Check out my Ph.D. student **Andrews Boahen**’s new webpage: [andrewsboahen.github.io](https://andrewsboahen.github.io/).
 * 🎉 I’m honored to share that I have been promoted to **Associate Professor** in the Department of Statistics and Probability at Michigan State University.
 * 📌 I’m very honored and grateful to receive the [NSF CAREER Award](https://stt.natsci.msu.edu/news/chih-li-sung-receives-nsf-career-award.aspx). 
 
