@@ -70,7 +70,7 @@ Team presentation showcasing results of the 2024 REU projects. From left: Xun Lu
 
 <div class="outreach-item">
 👩‍🏫 <strong><a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWGJHgifted%2Fposts%2Fpfbid02vVLoK1SDNGH6TLW1yqVofWi2M5pM8h7tUhNMXai8rMXwnxdTp3ZmeHayGRBycKMJl&show_text=true&width=500">Gifted Education Symposium</a></strong><br>
-Delivered a talk at <a href="http://www.wgjh.phc.edu.tw/">Municipal Wenguangguomin Junior High School</a> (Penghu, Taiwan), 
+Delivered a talk at <a href="http://www.wgjh.phc.edu.tw/">Municipal Wenguangguomin Junior High School</a> in my hometown (Penghu, Taiwan), 
 introducing students to statistics, AI applications, and future career opportunities.
 </div>
 
