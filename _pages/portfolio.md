@@ -43,6 +43,26 @@ Sung, C.-L., Ji, Y., Mak, S., Wang, W., & Tang, T. (2024). *SIAM/ASA J. Uncertai
 {% endcapture %}
 <div class="notice--success">{{ mf | markdownify }}</div>
 
+
+{% capture continuousmf %}
+
+**Where Should We Run the Next Simulation, and at What Fidelity?**
+
+In many numerical simulations, fidelity is not limited to a few discrete levels. For example, in finite element simulations, mesh size can be varied continuously. This raises an important design question: **where should we run the next simulation, and how accurate should it be?**
+
+In [this work](https://doi.org/10.1080/00401706.2026.2702433) (Boutelet-Smith and Sung, 2026), we develop an active learning framework for computer experiments with continuous fidelity parameters. We introduce an adaptive nonstationary Gaussian process kernel that captures how simulation outputs change across fidelity levels, together with a cost aware sequential design strategy that selects both the input location and fidelity of each new simulation.
+
+The framework is particularly suited to finite element simulations, where it adaptively balances computational cost and predictive accuracy without requiring a fixed set of fidelity levels in advance.
+
+Open-source implementation: [MuFiMeshGP (CRAN)](https://cran.r-project.org/web/packages/MuFiMeshGP/index.html).
+
+<span style="font-size: 0.82em; color: #6b6b6b;"> 
+Boutelet-Smith, R., & Sung, C.-L. (2026). *Technometrics*. 
+</span> 
+{% endcapture %} 
+<div class="notice--info">{{ continuousmf | markdownify }}</div>
+
+
 {% capture rna %}
 **Beyond Linear Relationships in Multi-Fidelity Modeling**
 
@@ -56,7 +76,8 @@ Open-source implementation: [RNAmf (CRAN)](https://cran.r-project.org/web/packag
 Heo, J., & Sung, C.-L. (2025). *Technometrics*, 67(1), 58-72.
 </span>
 {% endcapture %}
-<div class="notice--info">{{ rna | markdownify }}</div>
+<div class="notice--warning">{{ rna | markdownify }}</div>
+
 
 {% capture figp %}
 **Regression with Functional Inputs: When the Input is a Curve**
@@ -75,26 +96,9 @@ Open-source implementation: [Reproducibility (GitHub)](https://github.com/ChihLi
 Sung, C.-L., Wang, W., Cakoni, F., Harris, I., & Hung, Y. (2024). *Statistica Sinica*, 34(4), 1883-1902.
 </span>
 {% endcapture %}
-<div class="notice--warning">{{ figp | markdownify }}</div>
+<div class="notice--success">{{ figp | markdownify }}</div>
 
 
-{% capture calib %}
-
-**Calibration with Heteroscedastic Measurement Errors**
-
-Computer models are widely used to represent real systems, but they often involve unknown parameters that must be estimated from experimental data. Most calibration methods assume that measurement errors have constant variance — an assumption that is frequently violated in practice.
-
-In [this work](https://epubs.siam.org/doi/10.1137/21M1417946) (Sung et al, 2022), we develop a new calibration framework for inexact computer models under **heteroscedastic measurement errors** (i.e., non-constant variance). We derive asymptotic properties of the parameter estimators to quantify uncertainty and propose a goodness-of-fit test to detect heteroscedasticity.
-
-Open-source implementation: [HetCalibrate (GitHub)](https://github.com/ChihLi/HetCalibrate).
-
-
-<span style="font-size: 0.82em; color: #6b6b6b;">
-Sung, C.-L., Barber, B. D., & Walker, B. J. (2022). *SIAM/ASA J. Uncertainty Quantification*, 10(4), 1733-1752.
-</span>
-
-{% endcapture %}
-<div class="notice--success">{{ calib | markdownify }}</div>
 
 
 {% capture les %}
@@ -113,6 +117,25 @@ Mak, S., Sung, C.-L., Wang, X., Yeh, S.-T., Chang, Y.-H., Joseph, V. R., Yang, V
 
 {% endcapture %}
 <div class="notice--info">{{ les | markdownify }}</div>
+
+
+{% capture calib %}
+
+**Calibration with Heteroscedastic Measurement Errors**
+
+Computer models are widely used to represent real systems, but they often involve unknown parameters that must be estimated from experimental data. Most calibration methods assume that measurement errors have constant variance — an assumption that is frequently violated in practice.
+
+In [this work](https://epubs.siam.org/doi/10.1137/21M1417946) (Sung et al, 2022), we develop a new calibration framework for inexact computer models under **heteroscedastic measurement errors** (i.e., non-constant variance). We derive asymptotic properties of the parameter estimators to quantify uncertainty and propose a goodness-of-fit test to detect heteroscedasticity.
+
+Open-source implementation: [HetCalibrate (GitHub)](https://github.com/ChihLi/HetCalibrate).
+
+
+<span style="font-size: 0.82em; color: #6b6b6b;">
+Sung, C.-L., Barber, B. D., & Walker, B. J. (2022). *SIAM/ASA J. Uncertainty Quantification*, 10(4), 1733-1752.
+</span>
+
+{% endcapture %}
+<div class="notice--warning">{{ calib | markdownify }}</div>
 
 
 <img src='/images/MSUNSF.png' width="240" height="120" style="float:left">
