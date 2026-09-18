@@ -121,7 +121,7 @@ PhD students
 <div class="student-grid">
 
 <div class="student-card">
-  <img src="/images/xiaoyang.jpg" alt="Xiaoyang Zhu">
+  <img src="/images/xiaoyang.jpeg" alt="Xiaoyang Zhu">
   <a href="https://directory.natsci.msu.edu/directory/Profiles/Person/105317">Xiaoyang Zhu</a>
   <div class="student-info">2026 – present</div>
 </div>
