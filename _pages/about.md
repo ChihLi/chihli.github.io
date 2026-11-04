@@ -25,6 +25,7 @@ Chih-Li Sung received a Ph.D. at the Stewart School of Industrial & Systems Engi
 
 News 
 ------
+* 📦 Our new R package, [deepICMGP](https://cran.r-project.org/web/packages/deepICMGP/index.html), is now available on CRAN! The package provides an implementation of our deep intrinsic coregionalization multi-output Gaussian process model for surrogate modeling and active learning.
 * 🌐 Check out my Ph.D. student **Chun-Yi Chang**’s new webpage: [jennychang32.github.io](https://jennychang32.github.io).
 * 🎉 Our paper *Active Learning with Adaptive Non-Stationary Kernel for Continuous-Fidelity Surrogate Models* has been accepted for publication in [Technometrics](https://doi.org/10.1080/00401706.2026.2702433). Great work by my Ph.D. student [Romain Boutelet-Smith](https://directory.natsci.msu.edu/Directory/Profiles/Person/102496?org=2&group=188).
 * 🎉 Our paper *Uncertainty-Aware Out-of-Distribution Detection with Gaussian Processes* has been accepted for publication in [Technometrics](https://doi.org/10.1080/00401706.2026.2682179). I would especially like to thank my collaborator [Dr. Wenbo Sun](https://sites.google.com/a/umich.edu/wsun/home), who introduced me to the field of out-of-distribution (OOD) detection, for his guidance and collaboration throughout this project.

@@ -70,6 +70,13 @@ The following packages implement methods developed in our research on Gaussian p
 
 <div class="software-grid">
 
+
+<div class="software-card">
+<a href="https://cran.r-project.org/web/packages/deepICMGP/index.html">deepICMGP</a>
+<p>Multi-fidelity emulator and active learning for computer experiments with tunable fidelity levels.</p>
+<img src="https://cranlogs.r-pkg.org/badges/grand-total/deepICMGP">
+</div>
+
 <div class="software-card">
 <a href="https://cran.r-project.org/web/packages/MuFiMeshGP/index.html">MuFiMeshGP</a>
 <p>Multi-fidelity emulator and active learning for computer experiments with tunable fidelity levels.</p>
