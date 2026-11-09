@@ -73,7 +73,7 @@ The following packages implement methods developed in our research on Gaussian p
 
 <div class="software-card">
 <a href="https://cran.r-project.org/web/packages/deepICMGP/index.html">deepICMGP</a>
-<p>Multi-fidelity emulator and active learning for computer experiments with tunable fidelity levels.</p>
+<p>Deep intrinsic coregionalization Gaussian process models for multi-output surrogate modeling and active learning.</p>
 <img src="https://cranlogs.r-pkg.org/badges/grand-total/deepICMGP">
 </div>
 
